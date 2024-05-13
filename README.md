@@ -5,7 +5,7 @@ Currently, one of the developing areas of Embodied AI is using Large Language Mo
 We propose AmbiK, the fully textual dataset of ambiguous commands addressed to a robot in a kitchen environment. AmbiK was collected with the assistance of LLMs and is human-validated. It comprises 250 pairs of ambiguous tasks and their unambiguous counterparts, categorized by ambiguity type (human preference, common sense knowledge, safety), with environment descriptions, clarifying questions and answers, and task plans, for a total of 500 tasks.
 
 ## Data collection
-1. Listing the possible objects in the environment grouped by objects' similatory (e.g. different types of yogurt constitute one group).
+1. Listing the possible objects in the environment grouped by objects' similarity (e.g. different types of yogurt constitute one group).
   
 2. Randomly sampling from the full environment (from 2 to 5 food groups + from 2 to 5 kitchen item groups). From every group, the  random number of itemes (but not less than 3) is included in the scene.
 Getting scenes like:
