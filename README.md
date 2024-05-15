@@ -31,3 +31,147 @@ Getting scenes like:
   > Imagine there is a kitchen robot. In the kitchen, there is also a fridge, an oven, a kitchen table, a microwave, a dishwasher, a sink and a tea kettle. Apart from that, in the kitchen there is {scene in natural language}. Other objects do not exist in the environment. The task for the robot is: {the task}. Please formulate the task in other words. Replace as many words as possible. You can use pronouns, hyponyms, synonyms etc. (for example, "cola" instead of "Coke"). You can address the robot in different ways. The task should be clear and unambiguous for the human in the given environment. Please, be creative!
   
 6. Manually reviewing Mistral's and ChatGPT's answers.
+
+## Full environment list
+Non-food items:
+1. fridge
+2. oven
+3. microwave
+4. dishwasher
+5. sink
+6. cutting board
+7. soup pot
+8. stockpot
+9. frying pan
+10. grill pan
+11.  sauce pan
+12.  metal bowl
+13.  plastic bowl
+14.  ceramic bowl
+15.  plastic dinner plate
+16.  plastic bread plate
+17.  plastic salad plate
+18.  ceramic dinner plate
+19.  ceramic bread plate
+20.  ceramic salad plate
+21.  glass dinner plate
+22.  glass bread plate
+23.  glass salad plate
+24.  porcelain cup
+25.  beer mug
+26.  ceramic mug
+27.  glass mug
+28.  plastic cup
+29.  paper cup
+30.  glass
+31.  dish soap
+32.  paper towels
+33.  trash bin
+34.  blender
+35.  mixer
+36.  toaster
+37.  coffee machine
+38.  bottle opener
+39.  tea kettle
+40.  corkscrew
+41.  whisk
+42.  ladle
+43.  oven mitts
+44.  potholder
+45.  kitchen towel
+46.  dish rack
+47.  vegetable peeler
+48.  potato masher
+49.  grater
+50.  shears
+51.  citrus juicer
+52.  garlic press
+53.  bread knife
+54.  paring knife
+55.  butter knife
+56.  stainless steel tablespoon
+57.  wooden tablespoon
+58.  silver teaspoon
+59.  chopsticks
+60.  stainless steel dinner fork
+61.  stainless steel salad fork
+62.  stainless steel dinner knife
+63.  spatula
+64.  plastic food storage container 
+65.  glass food storage container 
+66.  knife block
+67.  bottom drawer
+68.  middle drawer
+69.  top drawer
+70.  kitchen table
+71.  chair (4)
+72.  clean sponge
+73.  dirty sponge
+Food items:
+74.  eggs
+75.  olive oil
+76.  sunflower oil
+77.  coconut oil
+78.  sliced whole wheat bread
+79.  toasted bread
+80.  uncut white bread
+81.  a bottle of white wine 
+82.  a bottle of red wine 
+83.  bottled water
+84.  bottled iced tea
+85.  beer can
+86.  Coka-Cola can
+87.  Pepsi can
+88.  Sprite bottle
+89.  orange soda
+90.  RedBull can
+91.  rice chips
+92.  jalapeno chips
+93.  potato chips
+94.  energy bar
+95.  apple
+96.  orange
+97.  banana
+98.  grapes
+99.  lemon
+100. avocado
+101. peach
+102.  table salt
+103.  sea salt
+104. granulated sugar
+105. bell pepper
+106. black pepper
+107. tomato
+108. cucumber
+109. potato
+110. cabbage
+111. carrot
+112. onion
+113. garlic
+114. tomato paste
+115. mayonnaise
+116. ketchup
+117. mustard
+118. glass milk bottle
+119. oat milk bottle
+120. greek yogurt cup
+121. vanilla yogurt cup
+122. strawberry yogurt cup
+123. cheddar cheese slices
+124. mozarella sticks
+125. fresh mozarella package
+126. cream cheese
+127. cottage cheese
+128. black tea bags
+129. green tea bags
+130. milk chocolate tablet
+131. dark chocolate tablet
+132. almond milk chocolate tablet
+133. canned olives
+134. honey
+135. muesli
+136. cornflakes
+137. mixed fruit jam
+138. flour
+
+A fridge, an oven, a kitchen table, a microwave, a dishwasher, a sink and a tea kettle are present in every environment.
