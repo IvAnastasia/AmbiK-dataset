@@ -33,7 +33,6 @@ Getting scenes like:
 6. Manually reviewing Mistral's and ChatGPT's answers.
 
 ## Full environment list
-Non-food items:
 1. fridge
 2. oven
 3. microwave
@@ -107,72 +106,72 @@ Non-food items:
 71.  chair (4)
 72.  clean sponge
 73.  dirty sponge
+—--
+74.  eggs
+75.  olive oil
+76.  sunflower oil
+77.  coconut oil
+78.  sliced whole wheat bread
+79.  toasted bread
+80.  uncut white bread
+81.  a bottle of white wine 
+82.  a bottle of red wine 
+83.  bottled water
+84.  bottled iced tea
+85.  beer can
+86.  Coka-Cola can
+87.  Pepsi can
+88.  Sprite bottle
+89.  orange soda
+90.  RedBull can
+91.  rice chips
+92.  jalapeno chips
+93.  potato chips
+94.  energy bar
+95.  apple
+96.  orange
+97.  banana
+98.  grapes
+99.  lemon
+100. avocado
+101. peach
+102.  table salt
+103.  sea salt
+104. granulated sugar
+105. bell pepper
+106. black pepper
+107. tomato
+108. cucumber
+109. potato
+110. cabbage
+111. carrot
+112. onion
+113. garlic
+114. tomato paste
+115. mayonnaise
+116. ketchup
+117. mustard
+118. glass milk bottle
+119. oat milk bottle
+120. greek yogurt cup
+121. vanilla yogurt cup
+122. strawberry yogurt cup
+123. cheddar cheese slices
+124. mozarella sticks
+125. fresh mozarella package
+126. cream cheese
+127. cottage cheese
+128. black tea bags
+129. green tea bags
+130. milk chocolate tablet
+131. dark chocolate tablet
+132. almond milk chocolate tablet
+133. canned olives
+134. honey
+135. muesli
+136. cornflakes
+137. mixed fruit jam
+138. flour
 
-Food items:
-75.  eggs
-76.  olive oil
-77.  sunflower oil
-78.  coconut oil
-79.  sliced whole wheat bread
-80.  toasted bread
-81.  uncut white bread
-82.  a bottle of white wine 
-83.  a bottle of red wine 
-84.  bottled water
-85.  bottled iced tea
-86.  beer can
-87.  Coka-Cola can
-88.  Pepsi can
-89.  Sprite bottle
-90.  orange soda
-91.  RedBull can
-92.  rice chips
-93.  jalapeno chips
-94.  potato chips
-95.  energy bar
-96.  apple
-97.  orange
-98.  banana
-99.  grapes
-100.  lemon
-101. avocado
-102. peach
-103.  table salt
-104.  sea salt
-105. granulated sugar
-106. bell pepper
-107. black pepper
-108. tomato
-109. cucumber
-110. potato
-111. cabbage
-112. carrot
-113. onion
-114. garlic
-115. tomato paste
-116. mayonnaise
-117. ketchup
-118. mustard
-119. glass milk bottle
-120. oat milk bottle
-121. greek yogurt cup
-122. vanilla yogurt cup
-123. strawberry yogurt cup
-124. cheddar cheese slices
-125. mozarella sticks
-126. fresh mozarella package
-127. cream cheese
-128. cottage cheese
-129. black tea bags
-130. green tea bags
-131. milk chocolate tablet
-132. dark chocolate tablet
-133. almond milk chocolate tablet
-134. canned olives
-135. honey
-136. muesli
-137. cornflakes
-138. mixed fruit jam
-139. flour
 
 A fridge, an oven, a kitchen table, a microwave, a dishwasher, a sink and a tea kettle are present in every environment.
