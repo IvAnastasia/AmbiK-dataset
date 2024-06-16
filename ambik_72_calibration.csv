@@ -1,0 +1,1080 @@
+,environment_short,environment_full,unambiguous_direct,unambiguous_indirect,ambiguity_type,amb_shortlist,ambiguous_task,question,answer,plan_for_clear_task,plan_for_amb_task,end_of_ambiguity,user_intent,variants,variants_best
+57,"toaster, plastic food storage container, glass food storage container, honey, carrot, tomato, black pepper, potato, bottle of white wine, bottle of red wine, milk chocolate tablet, almond milk chocolate tablet","a toaster, a plastic food storage container, a glass food storage container, honey, a carrot, a tomato, a black pepper, a potato, a bottle of white wine, a bottle of red wine, a milk chocolate tablet, an almond milk chocolate tablet","Kitchen Robot, please toast a slice of bread, spread honey on it, and grate some carrot on top to make a honey-carrot toast.","Robot, please make a toast with honey and grated carrot on top.",preferences,,"Robot, please toast a slice of bread, spread honey on it, and grate some carrot on top to make a honey-carrot toast.",Which type of bread should the robot use for the toast?,Which type of bread should the robot use for the toast?,"1. Turn on the toaster and place a slice of bread inside.
+2. While the bread is toasting, take out the honey and carrot from the fridge.
+3. Once the toast is done, spread honey on it using a knife.
+4. Grate some carrot on top of the honey-covered toast.
+5. Serve the honey-carrot toast on a plate for consumption.","1. Turn on the toaster and place a slice of bread inside.
+2. While the bread is toasting, take out the honey and carrot from the fridge.
+3. Once the toast is done, spread honey on it using a knife.
+4. Grate some carrot on top of the honey-covered toast.
+5. Serve the honey-carrot toast on a plate for consumption.",0,"you can use any type of bread for the toast 
+
+instruction for the robot use any type of bread for the toast",A) Turn on the toaster and place a slice of bread inside.,"A) use a slice of white bread for the toast
+B) use a slice of whole wheat bread for the toast"
+36,"bottle opener, frying pan, grill pan, sauce pan, dish rack, vanilla yogurt cup, greek yogurt cup, garlic, cucumber, tomato, glass milk bottle, oat milk bottle, uncut white bread, toasted bread, sliced whole wheat bread, RedBull can, Coka-Cola can, Pepsi can, beer can, bottled iced tea, bottled water","a bottle opener, a frying pan, a grill pan, a sauce pan, a dish rack, a vanilla yogurt cup, a greek yogurt cup, a garlic, a cucumber, a tomato, a glass milk bottle, an oat milk bottle, uncut white bread, toasted bread, sliced whole wheat bread, a RedBull can, a Coka-Cola can, a Pepsi can, a beer can, bottled iced tea, bottled water","Kitchen Robot, please wash and slice the cucumber and tomato into thin pieces and place them on a ceramic salad plate.","Robot, please wash cut the cucumber and tomato into thin slices and arrange them on a salad plate.",safety,,"Kitchen Robot, please slice the cucumber and tomato into thin pieces and place them on a ceramic salad plate.",Should the robot wash the cucumber and tomato before slicing them?,"Yes, please wash the cucumber and tomato before slicing them.","1. Wash the cucumber and tomato
+2. Slice the cucumber and tomato into thin pieces
+3. Place the sliced cucumber and tomato on a ceramic salad plate","1. Slice the cucumber and tomato into thin pieces
+2. Place the sliced cucumber and tomato on a ceramic salad plate",0,wash the cucumber and tomato before slicing them,A) Slice the cucumber and tomato into thin pieces,"A) wash the cucumber and tomato before slicing them
+B) slice the cucumber and tomato into thin pieces without washing them"
+343,"corkscrew, plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, vegetable peeler, potato masher, mustard, tomato paste, energy bar, table salt, sea salt, coconut oil, olive oil","a corkscrew, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a vegetable peeler, a potato masher, mustard, tomato paste, an energy bar, table salt, sea salt, coconut oil, olive oil","Use the vegetable peeler to peel and chop a few potatoes. Place the potatoes in a saucepan and add a tablespoon of olive oil and a pinch of sea salt. Stir the mixture and cook the potatoes over medium-high heat for 5-7 minutes, or until they are tender and golden brown. While the potatoes are cooking, use the potato masher to mash a can of tomatoes. In a small bowl, combine the mashed tomatoes, a tablespoon of tomato paste, and a tablespoon of mustard. Stir the mixture until it is smooth and well-combined. Serve the potatoes and the tomato sauce on a ceramic dinner plate, with a glass of water on the side.","Robot, please use the vegetable peeler to peel and chop some potatoes. Place them in a saucepan and add a tablespoon of olive oil and a pinch of sea salt. Stir and cook over medium-high heat for 5-7 minutes until tender and golden brown. While they cook, mash a can of tomatoes with the potato masher. In a small bowl, mix the mashed tomatoes with tomato paste and mustard until smooth. Serve the potatoes and tomato sauce on a ceramic dinner plate with a glass of water on the side.",preferences," plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate","Use the vegetable peeler to peel and chop a few potatoes. Place the potatoes in a saucepan and add a tablespoon of olive oil and a pinch of sea salt. Stir the mixture and cook the potatoes over medium-high heat for 5-7 minutes, or until they are tender and golden brown. While the potatoes are cooking, use the potato masher to mash a can of tomatoes. In a small bowl, combine the mashed tomatoes, a tablespoon of tomato paste, and a tablespoon of mustard. Stir the mixture until it is smooth and well-combined. Serve the potatoes and the tomato sauce on a ceramic dinner plate, with a glass of water on the side.",Which plate should be used to serve the potatoes and tomato sauce?,Serve them on a ceramic dinner plate,"1. Peel and chop the potatoes using the vegetable peeler.
+2. Place the potatoes in a saucepan and add olive oil and sea salt.
+3. Cook the potatoes over medium-high heat for 5-7 minutes until tender and golden brown.
+4. Mash a can of tomatoes using the potato masher.
+5. In a small bowl, combine mashed tomatoes, tomato paste, and mustard to make a sauce.
+6. Serve the cooked potatoes on a ceramic dinner plate with the tomato sauce on top.
+7. Pour a glass of water to accompany the meal.","1. Peel and chop the potatoes using the vegetable peeler.
+2. Place the potatoes in a saucepan and add olive oil and sea salt.
+3. Cook the potatoes over medium-high heat for 5-7 minutes until tender and golden brown.
+4. Mash a can of tomatoes using the potato masher.
+5. In a small bowl, combine mashed tomatoes, tomato paste, and mustard to make a sauce.
+6. Serve the cooked potatoes on a ceramic dinner plate with the tomato sauce on top.
+7. Pour a glass of water to accompany the meal.",0,serve the food on a ceramic dinner plate,A) Peel and chop the potatoes using the vegetable peeler.,"A) use the ceramic dinner plate to serve the potatoes and tomato sauce
+B) use the glass dinner plate to serve the potatoes and tomato sauce"
+41,"plastic food storage container, glass food storage container, oven mitts, canned olives, vanilla yogurt cup, strawberry yogurt cup, energy bar","a plastic food storage container, a glass food storage container, oven mitts, canned olives, a vanilla yogurt cup, a strawberry yogurt cup, an energy bar","Kitchen Robot, please take out a glass food storage container from the fridge.","Robot, please retrieve a glass food storage container from the refrigerator.",preferences,,"Kitchen Robot, please take out a food storage container.",Which specific item should the robot take out from the fridge?,The glass food storage container.,"1. Take out the glass food storage container from the fridge.
+2. Place the glass food storage container on the kitchen table.
+3. Check if it needs to be washed in the dishwasher.
+4. If needed, wash the glass food storage container in the dishwasher.
+5. Dry off the glass food storage container with a dish towel.
+6. Put away any leftover food or ingredients into the glass food storage container.
+7. Close and store the glass food storage container back in the fridge.
+
+Is there anything else you would like me to do?","1. Take out the food storage container from the fridge.
+2. Place the food storage container on the kitchen table.
+3. Check if it needs to be washed in the dishwasher.
+4. If needed, wash the food storage container in the dishwasher.
+5. Dry off the food storage container with a dish towel.
+6. Put away any leftover food or ingredients into the food storage container.
+7. Close and store the food storage container back in the fridge.
+
+Is there anything else you would like me to do?",0,please place the food in the glass food storage container,"A) pick up the plastic food storage container
+B) pick up the glass food storage container","A) take out the vanilla yogurt cup from the fridge
+B) take out the strawberry yogurt cup from the fridge"
+168,"clean sponge, dirty sponge, dish soap, ladle, paper towels, cabbage, potato, onion, bell pepper, cucumber, carrot, tomato, garlic, strawberry yogurt cup, vanilla yogurt cup, greek yogurt cup, potato chips, jalapeno chips, eggs","a clean sponge, a dirty sponge, a dish soap, a ladle, paper towels, a cabbage, a potato, an onion, a bell pepper, a cucumber, a carrot, a tomato, a garlic, a strawberry yogurt cup, a vanilla yogurt cup, a greek yogurt cup, potato chips, jalapeno chips, eggs","Robot, please use the clean sponge to wipe down the kitchen counter. Then, use the ladle to mix together a quick and easy vegetable stir-fry. Use a diced onion, a diced bell pepper, a diced carrot, and a diced tomato. Mix the ingredients together and cook over medium heat until the vegetables are tender.","Kitchen robot, please utilize the fresh sponge to clean the kitchen counter. Afterward, take the ladle to combine a simple vegetable stir-fry. Use a chopped onion, a chopped bell pepper, a chopped carrot, and a chopped tomato. Mix all the components together and cook on medium heat until the vegetables are soft.",common_sense_knowledge,,"Robot, please use the clean sponge to wipe down the kitchen counter. Then, use the ladle to mix together a quick and easy vegetable stir-fry. Use a diced onion, a diced bell pepper, a diced carrot, and a diced tomato. Mix the ingredients together and cook over medium heat until the vegetables are tender.",What should be done after wiping down the kitchen counter with the clean sponge?,"Use the ladle to mix together a quick and easy vegetable stir-fry using diced onion, bell pepper, carrot, and tomato. Cook over medium heat until vegetables are tender.","1. Use the clean sponge to wipe down the kitchen counter.
+2. Dice the onion, bell pepper, carrot, and tomato.
+3. Heat up a pan over medium heat.
+4. Add some oil to the pan.
+5. Add the diced vegetables to the pan and stir fry them using the ladle.
+6. Cook until vegetables are tender.
+7. Serve and enjoy!","1. Use the clean sponge to wipe down the kitchen counter.
+2. Dice the onion, bell pepper, carrot, and tomato.
+3. Heat up a pan over medium heat.
+4. Add some oil to the pan.
+5. Add the diced vegetables to the pan and stir fry them using the ladle.
+6. Cook until vegetables are tender.
+7. Serve and enjoy!",0,mix diced onion bell pepper carrot and tomato in a pan using a ladle and cook over medium heat until vegetables are tender to make a quick and easy vegetable stirfry,A) use the clean sponge to wipe down the kitchen counter,"A) rinse the clean sponge with water
+B) dry the kitchen counter with a paper towel"
+302,"bread knife, paring knife, butter knife, cutting board, knife block, vanilla cake, ice cream cake, carrot cake, strawberry cake, honey, strawberry yogurt cup, vanilla yogurt cup","a bread knife, a paring knife, a butter knife, a cutting board, a knife block, a vanilla cake, an ice cream cake, a carrot cake, a strawberry cake, honey, a strawberry yogurt cup, a vanilla yogurt cup",Use the bread knife to slice a piece of the vanilla cake. Place the slice of cake on a plate and drizzle a tablespoon of honey over the top. Scoop a small portion of the strawberry yogurt into a bowl and place it on the plate next to the cake. Heat up a mug of water in the microwave and steep a bag of green tea in the mug for 2-3 minutes. Remove the tea bag and place the mug of green tea on the plate next to the yogurt.,"Robot, please use the bread knife to cut a piece of the vanilla cake. Place it on a plate and drizzle some honey over it. Scoop a bit of the strawberry yogurt into a bowl and place it on the plate next to the cake. Heat up a mug of water in the microwave and steep a green tea bag in it for 2-3 minutes. Remove the tea bag and place the mug of green tea on the plate next to the yogurt. Thank you!",common_sense_knowledge,,"Slice a piece of cake with the knife. Place it on a plate and drizzle honey over it. Scoop some strawberry yogurt into a bowl and place it on the plate. Heat up water in the microwave, steep a tea bag in the mug for 2-3 minutes, then place the mug next to the yogurt.",Which knife should I use to slice the piece of cake?,Use the bread knife.,"1. Use the bread knife to slice a piece of the vanilla cake.
+2. Place the slice of cake on a plate.
+3. Drizzle a tablespoon of honey over the top of the cake.
+4. Scoop a small portion of the strawberry yogurt into a bowl.
+5. Place the bowl of yogurt on the plate next to the cake.
+6. Heat up a mug of water in the microwave.
+7. Steep a bag of green tea in the mug for 2-3 minutes.
+8. Remove the tea bag from the mug and place it on the plate next to the yogurt and cake.
+
+(Note: You may want to consider washing any utensils or dishes used during this process as well.)","1. Slice a piece of cake with the knife.
+2. Place it on a plate.
+3. Drizzle honey over it.
+4. Scoop some strawberry yogurt into a bowl and place it on the plate.
+5. Heat up water in the microwave.
+6. Steep a tea bag in the mug for 2-3 minutes, then place the mug next to the yogurt.",0,use the bread knife to slice the bread,A) slice a piece of vanilla cake with the knife,"A) use the bread knife to slice the piece of cake
+B) use the paring knife to slice the piece of cake"
+226,"spatula, chopsticks, stainless steel dinner fork, stainless steel salad fork, stainless steel dinner knife, stainless steel tablespoon, wooden tablespoon, silver teaspoon, strawberry yogurt cup, vanilla yogurt cup, greek yogurt cup, cottage cheese, cream cheese, cheddar cheese slices, mozarella sticks, fresh mozarella package, bottle of white wine, bottle of red wine","a spatula, chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a strawberry yogurt cup, a vanilla yogurt cup, a greek yogurt cup, cottage cheese, cream cheese, cheddar cheese slices, mozarella sticks, a fresh mozarella package, a bottle of white wine, a bottle of red wine","Robot, please use the spatula to spread cream cheese evenly on a slice of cheddar cheese, and then roll it up tightly into a spiral.","Hey kitchen robot, can you take the spatula and spread the cream cheese evenly on a slice of cheddar cheese? After that, roll it up tightly into a spiral. Thank you!",common_sense_knowledge,,"Robot, please use the spatula to spread cream cheese evenly on a slice of cheddar cheese.",Which utensil should I use to roll up the cream cheese-covered cheddar cheese into a spiral?,You should use the spatula,"1. Retrieve the spatula from the kitchen utensil drawer.
+2. Take out a slice of cheddar cheese from the fridge.
+3. Open the cream cheese container and use the spatula to spread it evenly on the cheddar cheese slice.
+4. Roll up the cream cheese-covered cheddar cheese slice tightly into a spiral shape.
+5. Place the rolled-up snack on a plate and serve it as requested.
+
+Let me know if you need any further assistance!","1. Retrieve the spatula from the kitchen utensil drawer.
+2. Take out a slice of cheddar cheese from the fridge.
+3. Open the cream cheese container and use the spatula to spread it evenly on the cheddar cheese slice.
+4. Serve as requested.",3,use the spatula to carefully flip the pancakes over when they start to bubble on top,"A) pick up the stainless steel dinner fork
+B) pick up the stainless steel salad fork
+C) pick up the stainless steel dinner knife","A) use the stainless steel dinner fork to roll up the cream cheese-covered cheddar cheese into a spiral
+B) use chopsticks to roll up the cream cheese-covered cheddar cheese into a spiral"
+326,"ladle, soup pot, stockpot, peach, orange, watermelon, melon, apple, banana, kiwi, pear, avocado, lemon, apricot, pineapple, buckwheat, basmati rice, couscous, brown rice, jasmine rice, olive oil, sunflower oil","a ladle, a soup pot, a stockpot, a peach, an orange, a watermelon, a melon, an apple, a banana, a kiwi, a pear, an avocado, a lemon, an apricot, a pineapple, buckwheat, basmati rice, couscous, brown rice, jasmine rice, olive oil, sunflower oil","Use the ladle to scoop out a serving of cooked brown rice from the stockpot. Then, use a knife to slice a ripe avocado in half and remove the pit. Scoop out the avocado flesh and mix it with the brown rice, a drizzle of olive oil, and a squeeze of lemon juice for a healthy and flavorful side dish.","Robot, please use the ladle to scoop out a portion of cooked whole grain rice from the large pot. Next, take a knife to cut a ripe green fruit in half and remove the seed. Scoop out the soft fruit flesh and mix it with the whole grain rice, a drizzle of healthy oil, and a squeeze of sour citrus juice for a nutritious and tasty side dish.",preferences," soup pot, stockpot",Mix the avocado with the brown rice in the pot.,Where should you mix the avocado with the brown rice?,Use the stockpot,"1. Use the ladle to scoop out a serving of cooked brown rice from the stockpot.
+2. Use a knife to slice a ripe avocado in half and remove the pit.
+3. Scoop out the avocado flesh and mix it with the brown rice.
+4. Drizzle olive oil over the mixture.
+5. Squeeze lemon juice over the mixture for flavor enhancement.","1. Use the ladle to scoop out a serving of cooked brown rice from the stockpot.
+2. Use a knife to slice a ripe avocado in half and remove the pit.
+3. Scoop out the avocado flesh and mix it with the brown rice in the pot.
+4. Drizzle olive oil over the mixture.
+5. Squeeze lemon juice over the mixture for flavor enhancement.",2,use the stockpot to cook the soup,"A) Use the ladle to scoop out the avocado flesh
+B) Mix the avocado flesh with the brown rice in the pot","A) mix the avocado with the brown rice in the soup pot
+B) mix the avocado with the brown rice in the stockpot"
+473,"ladle, porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass, dish rack, eggs, cinnamon sugar donut, strawberry frosted donut, tomato paste, mustard, mayonnaise, ketchup, greek yogurt cup, vanilla yogurt cup","a ladle, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a galss, a dish rack, eggs, a cinnamon sugar donut, a strawberry frosted donut, tomato paste, mustard, mayonnaise, ketchup, a greek yogurt cup, a vanilla yogurt cup",Serve the cinnamon sugar donut on the ceramic mug.,"Robot, please place the cinnamon sugar donut on the ceramic cup.",preferences,"porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass",Serve the cinnamon sugar donut on a mug.,Which type of mug should I use to serve the cinnamon sugar donut?,Use the ceramic mug.,"1. Take the ceramic mug from the cupboard
+2. Place the cinnamon sugar donut on the ceramic mug
+3. Serve the cinnamon sugar donut on the kitchen table
+4. Enjoy my delicious treat","1. Take a mug from the cupboard
+2. Place the cinnamon sugar donut on the mug
+3. Serve the cinnamon sugar donut on the kitchen table
+4. Enjoy my delicious treat",0,use the ceramic mug for this task,"A) pick up the porcelain cup
+B) pick up the beer mug
+C) pick up the ceramic mug
+D) pick up the glass mug","A) use the ceramic mug to serve the cinnamon sugar donut
+B) use the glass mug to serve the cinnamon sugar donut"
+23,"whisk, clean sponge, dirty sponge, dish soap, glass milk bottle, oat milk bottle, muesli, cornflakes, potato chips, rice chips, jalapeno chips","a whisk, a clean sponge, a dirty sponge, a dish soap, a glass milk bottle, an oat milk bottle, muesli, cornflakes, potato chips, rice chips, jalapeno chips","Kitchen Robot, please pour a bowl of muesli and top it with oat milk.","Robot, please prepare a bowl of cereal with oat milk.",preferences,"muesli, cornflakes","Kitchen Robot, please prepare a bowl of cereal with milk.",Which type of cereal should I use for the bowl?,Muesli.,"1. Retrieve a bowl from the kitchen cabinet.
+2. Pour muesli into the bowl.
+3. Open the oat milk bottle and pour it over the muesli.
+4. Mix the muesli and oat milk together using a whisk.
+5. Serve the bowl of muesli with oat milk on the kitchen table for consumption.","1. Retrieve a bowl from the kitchen cabinet.
+2. Pour cereal into the bowl.
+3. Open the milk bottle and pour it over the cereal.
+4. Mix the cereal and milk together using a whisk.
+5. Serve the bowl of cereal with milk on the kitchen table for consumption.",1,prepare muesli for breakfast,"A) pour muesli into the bowl
+B) pour cornflakes into the bowl","A) pour muesli into the bowl
+B) pour cornflakes into the bowl"
+450,"plastic food storage container, glass food storage container, spatula, energy bar, vegetable peeler, cucumber, sweet onion, yellow onion, black pepper, soup pot, potato masher, green onion, potato, bell pepper, stockpot, cabbage, grill pan, tomato, citrus juicer, frying pan, carrot, strawberry yogurt cup, greek yogurt cup","a plastic food storage container, a glass food storage container, a spatula, an energy bar, a vegetable peeler, a cucumber, a sweet onion, a yellow onion, a black pepper, a soup pot, a potato masher, a green onion, a potato, a bell pepper, a stockpot, a cabbage, a grill pan, a tomato, a citrus juicer, a frying pan, a carrot, a strawberry yogurt cup, a greek yogurt cup",Please fetch the glass food storage container from the cabinet.,"Robot, please retrieve the glass container from the cabinet.",common_sense_knowledge,,Please fetch the glass food storage container from the cabinet above the stove.,Which shelf should I look for the glass food storage container on?,Look for it on the top shelf in the cabinet.,"1. Fetch the glass food storage container from the cabinet.
+2. Fill the glass food storage container with sliced cucumber, diced sweet onion, diced yellow onion, black pepper, and chopped green onion to make a salad.
+3. Use the citrus juicer to juice a lemon and add it to the salad for extra flavor.
+4. Place the salad in the fridge to chill while preparing other dishes.
+5. Peel and chop potatoes and carrots for a vegetable side dish.
+6. Heat up the grill pan and cook bell peppers, tomatoes, and cabbage for a grilled vegetable medley.
+7. Boil water in the stockpot to make soup using leftover vegetables from previous meals.
+8. Use the frying pan to cook an omelette with diced bell peppers and onions for protein-packed breakfast option.
+9. Enjoy a refreshing strawberry yogurt cup as a snack during breaks in between cooking tasks.
+
+We: Great plan! Let's get started on these tasks one by one!","1. Fetch the glass food storage container from the cabinet above the stove.
+2. Fill the glass food storage container with sliced cucumber, diced sweet onion, diced yellow onion, black pepper, and chopped green onion to make a salad.
+3. Use the citrus juicer to juice a lemon and add it to the salad for extra flavor.
+4. Place the salad in the fridge to chill while preparing other dishes.
+5. Peel and chop potatoes and carrots for a vegetable side dish.
+6. Heat up the grill pan and cook bell peppers, tomatoes, and cabbage for a grilled vegetable medley.
+7. Boil water in the stockpot to make soup using leftover vegetables from previous meals.
+8. Use the frying pan to cook an omelette with diced bell peppers and onions for protein-packed breakfast option.
+9. Enjoy a refreshing strawberry yogurt cup as a snack during breaks in between cooking tasks.",0,search for the item on the top shelf of the cabinet,A) pick up the glass food storage container from the cabinet above the stove,"A) look for the glass food storage container on the top shelf above the stove
+B) look for the glass food storage container on the middle shelf above the stove"
+432,"plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, plastic food storage container, glass food storage container, shepherd's pie, pumpkin pie, apple pie, cream pie, key lime pie, muesli, cornflakes, honey","a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a plastic food storage container, a glass food storage container, shepherd's pie, pumpkin pie, apple pie, cream pie, key lime pie, muesli, cornflakes, honey",Fill the glass food storage container with honey for convenient storage.,"Robot, please fill the glass container with honey for storage.",preferences,"plastic food storage container, glass food storage container",Fill the food storage container with honey.,Which type of food storage container should I use to fill with honey?,The glass food storage container.,"1. Fill the glass food storage container with honey for convenient storage.
+2. Put away the plastic dinner plate, bread plate, and salad plate in their respective places.
+3. Put away the ceramic dinner plate, bread plate, and salad plate in their respective places.
+4. Put away the glass dinner plate, bread plate, and salad plate in their respective places.
+5. Organize the plastic food storage container in a designated area.
+6. Organize the glass food storage container with honey next to it for easy access.
+7. Clean up any dishes or utensils left out on the kitchen table or countertops.
+8. Check if there are any dirty dishes that need to be loaded into the dishwasher and do so if necessary.
+9. Wipe down any spills or messes on surfaces using a damp cloth or sponge.
+10. Make sure all appliances are turned off and everything is tidy before leaving the kitchen area.
+
+We: Great job! The kitchen looks clean and organized now thanks to your efficient plan of action!","1. Fill the glass food storage container with honey for convenient storage.
+2. Put away the plastic dinner plate, bread plate, and salad plate in their respective places.
+3. Put away the ceramic dinner plate, bread plate, and salad plate in their respective places.
+4. Put away the glass dinner plate, bread plate, and salad plate in their respective places.
+5. Organize the plastic food storage container in a designated area.
+6. Organize the glass food storage container with honey next to it for easy access.
+7. Clean up any dishes or utensils left out on the kitchen table or countertops.
+8. Check if there are any dirty dishes that need to be loaded into the dishwasher and do so if necessary.
+9. Wipe down any spills or messes on surfaces using a damp cloth or sponge.
+10. Make sure all appliances are turned off and everything is tidy before leaving the kitchen area.
+
+We: Great job! The kitchen looks clean and organized now thanks to your efficient plan of action!",0,please place the food in the glass food storage container,A) fill the glass food storage container with honey,"A) use the plastic food storage container to fill with honey
+B) use the glass food storage container to fill with honey"
+18,"porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass, coffee machine, milk chocolate tablet, dark chocolate tablet, mixed fruit jam","a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a coffee machine, a milk chocolate tablet, a dark chocolate tablet, mixed fruit jam","Kitchen Robot, please make a hot chocolate by using the coffee machine to heat up milk, adding a few pieces of milk chocolate tablet, and stirring until the chocolate is melted. Then pour it into a ceramic mug.","Dear kitchen assistant, could you please prepare a hot chocolate by heating up some milk using the coffee machine, adding a few chunks of milk chocolate tablet, and stirring until the chocolate is melted? Finally, pour the hot chocolate into a ceramic mug. Thank you!",preferences,"beer mug, ceramic mug, glass mug","Kitchen Robot, please make a hot chocolate by using the coffee machine to heat up milk, adding a few pieces of milk chocolate tablet, and stirring until the chocolate is melted. Then pour it into a cup.",Which cup should I use to pour the hot chocolate into?,Use the ceramic mug.,"1. Turn on the coffee machine to heat up milk.
+2. Add a few pieces of milk chocolate tablet into the heated milk.
+3. Stir until the chocolate is melted.
+4. Pour the hot chocolate into a ceramic mug.
+5. Serve the hot chocolate to the user in the kitchen.","1. Turn on the coffee machine to heat up milk.
+2. Add a few pieces of milk chocolate tablet into the heated milk.
+3. Stir until the chocolate is melted.
+4. Pour the hot chocolate into a cup.
+5. Serve the hot chocolate to the user in the kitchen.",3,use the ceramic mug for this task,"A) pour the hot chocolate into the ceramic mug
+B) pour the hot chocolate into the glass mug","A) use the porcelain cup to pour the hot chocolate into
+B) use the ceramic mug to pour the hot chocolate into"
+223,"oven mitts, spatula, ladle, bottle of white wine, bottle of red wine, cucumber, black pepper","oven mitts, a spatula, a ladle, a bottle of white wine, a bottle of red wine, a cucumber, a black pepper","Robot, please use the spatula to make a quick and easy cucumber and black pepper salad. Use a cucumber, a tablespoon of olive oil (if available in the kitchen), and a pinch of black pepper. Mix the ingredients together until well combined.","Hey kitchen robot, could you whip up a simple cucumber and black pepper salad using the spatula? Grab a cucumber, a bit of olive oil (if it's around), and a sprinkle of black pepper. Mix everything together until it's all blended nicely. Thanks!",common_sense_knowledge,,"Robot, please use the spatula to make a quick and easy cucumber and black pepper salad. Use a cucumber, a tablespoon of olive oil (if available in the kitchen), and a pinch of black pepper. Mix the ingredients together until well combined","Robot, where should you find the tablespoon of olive oil for the salad? ",In the kitchen cabinet next to the sink.,"1. Gather the cucumber, spatula, olive oil (if available), and black pepper.
+2. Wash and peel the cucumber.
+3. Cut the cucumber into small slices or cubes.
+4. If olive oil is available, drizzle a tablespoon over the cucumber slices.
+5. Sprinkle a pinch of black pepper over the cucumbers.
+6. Use the spatula to mix everything together until well combined.
+7. Serve and enjoy your quick and easy cucumber and black pepper salad!","1. Gather the cucumber, spatula, olive oil (if available), and black pepper.
+2. Wash and peel the cucumber.
+3. Cut the cucumber into small slices or cubes.
+4. If olive oil is available, drizzle a tablespoon over the cucumber slices.
+5. Sprinkle a pinch of black pepper over the cucumbers.
+6. Use the spatula to mix everything together until well combined.
+7. Serve and enjoy your quick and easy cucumber and black pepper salad!",0,the kitchen cabinet next to the sink is where you can find the item,"A) pick up the cucumber
+B) pick up the spatula
+C) check if there is olive oil available
+D) pick up the black pepper","A) check the pantry for the olive oil
+B) check the fridge for the olive oil"
+101,"toaster, frying pan, grill pan, sauce pan, mixed fruit jam, energy bar, muesli, cornflakes, glass milk bottle, oat milk bottle, uncut white bread, sliced whole wheat bread, toasted bread","a toaster, a frying pan, a grill pan, a sauce pan, mixed fruit jam, an energy bar, muesli, cornflakes, a glass milk bottle, an oat milk bottle, uncut white bread, sliced whole wheat bread, toasted bread","Kitchen Robot, please use the toaster to toast 2 slices of uncut white bread.","Robot, please toast two slices of whole white bread using the toaster.",preferences,"uncut white bread, sliced whole wheat bread, toasted bread","Kitchen Robot, please use the toaster to toast 2 slices of bread.",Which type of bread should the robot use for toasting in the toaster?,sliced whole wheat bread.,"1. Turn on the toaster and set it to the desired level of toastiness.
+2. Place 2 slices of uncut white bread into the toaster slots.
+3. Press down the lever to start toasting the bread.
+4. Wait for the toaster to finish toasting the bread.
+5. Remove the toasted slices of white bread from the toaster once they are done.
+6. Serve the toasted white bread on a plate for consumption.
+
+Optional:
+7. Clean up any crumbs or mess left behind from using the toaster.","1. Turn on the toaster and set it to the desired level of toastiness.
+2. Place 2 slices of bread into the toaster slots.
+3. Press down the lever to start toasting the bread.
+4. Wait for the toaster to finish toasting the bread.
+5. Remove the toasted slices of bread from the toaster once they are done.
+6. Serve the toasted bread on a plate for consumption.
+
+Optional:
+7. Clean up any crumbs or mess left behind from using the toaster.",1,please slice whole wheat bread,"A) place 2 slices of white bread into the toaster slots
+B) place 2 slices of whole wheat bread into the toaster slots","A) use uncut white bread for toasting in the toaster
+B) use sliced whole wheat bread for toasting in the toaster"
+47,"clean sponge, dirty sponge, dish soap, stainless steel tablespoon, wooden tablespoon, silver teaspoon, coffee machine, honey, cucumber, potato, glass milk bottle, oat milk bottle, grapes, banana, orange, apple, lemon, avocado, peach, orange soda, bottled iced tea","a clean sponge, a dirty sponge, a dish soap, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a coffee machine, honey, a cucumber, a potato, a glass milk bottle, an oat milk bottle, grapes, a banana, an orange, an apple, a lemon, an avocado, a peach, an orange soda, bottled iced tea","Kitchen Robot, please take the cucumber, potato, and avocado from the fridge.","Robot, please retrieve the cucumber, potato, and avocado from the refrigerator.",common_sense_knowledge,,"Kitchen Robot, please take the cucumber, potato, and avocado.",Which items should you take from the fridge?,"The cucumber, potato, and avocado.","1. Take the cucumber, potato, and avocado from the fridge.
+2. Wash the cucumber and avocado in the sink.
+3. Peel and chop the cucumber, potato, and avocado on the kitchen table.
+4. Preheat the oven to roast the potato slices.
+5. While waiting for the oven to preheat, make a salad with chopped cucumber and avocado in a bowl.
+6. Once preheated, place potato slices on a baking sheet and roast in the oven.
+7. Serve roasted potatoes with salad on a plate for lunch or snack time.","1. Take the cucumber, potato, and avocado.
+2. Wash the cucumber and avocado in the sink.
+3. Peel and chop the cucumber, potato, and avocado on the kitchen table.
+4. Preheat the oven to roast the potato slices.
+5. While waiting for the oven to preheat, make a salad with chopped cucumber and avocado in a bowl.
+6. Once preheated, place potato slices on a baking sheet and roast in the oven.
+7. Serve roasted potatoes with salad on a plate for lunch or snack time.",0,chop the cucumber potato and avocado,"A) pick up the cucumber
+B) pick up the potato
+C) pick up the avocado","A) take the cucumber from the fridge
+B) take the potato from the fridge
+C) take the avocado from the fridge"
+75,"potholder, toaster, grater, Coka-Cola can, Pepsi can, bottled water, canned olives, glass milk bottle, oat milk bottle, black tea bags, green tea bags, bottle of white wine, bottle of red wine","a potholder, a toaster, a grater, a Coka-Cola can, a Pepsi can, bottled water, canned olives, a glass milk bottle, an oat milk bottle, black tea bags, green tea bags, a bottle of white wine, a bottle of red wine","Kitchen Robot, please use the grater to grate some cheese onto a plate, then toast a slice of bread in the toaster and place it on top of the cheese. Serve with a can of Coca-Cola on the side.","Dear Kitchen Robot, please grate some cheese onto a plate using the grater, then toast a slice of bread in the toaster and place it on top of the cheese. Serve with a can of cola on the side. Thank you!",preferences,,"Kitchen Robot, please use the grater to grate some cheese onto a plate, then toast a slice of bread in the toaster and place it on top of the cheese. Serve with a can of soda on the side.",Which type of soda should be served with the dish?,Coca-Cola,"1. Grate some cheese onto a plate using the grater.
+2. Toast a slice of bread in the toaster.
+3. Place the toasted bread on top of the grated cheese on the plate.
+4. Serve with a can of Coca-Cola on the side.","1. Grate some cheese onto a plate using the grater.
+2. Toast a slice of bread in the toaster.
+3. Place the toasted bread on top of the grated cheese on the plate.
+4. Serve with a can of soda on the side.",3,make sure to always have cocacola stocked in the fridge for when guests come over,"A) Serve the Coka-Cola can on the side
+B) Serve the Pepsi can on the side","A) serve with a Coka-Cola can on the side
+B) serve with a Pepsi can on the side"
+191,"bottle opener, coffee machine, grater, lemon, orange, apple, avocado, energy bar, water","a bottle opener, a coffee machine, a grater, a lemon, an orange, an apple, an avocado, an energy bar, water","Robot, please use the grater to zest the lemon and orange into a small bowl, and then use the coffee machine to brew a cup of hot water. Add the zest to the hot water and let it steep for a few minutes to create a citrusy herbal tea.","Hey kitchen robot, please grate the lemon and orange using the shredder into a small bowl. Then, brew a cup of hot water using the coffee maker. Add the grated zest to the hot water and let it steep for a few minutes to make a citrusy herbal tea. Thank you!",preferences,"next to sink, on top of the kitchen table","Robot, please use the grater to zest the lemon and orange into a small bowl, and then use the coffee machine to brew a cup of hot water. Add the zest to the hot water and let it steep for a few minutes to create a citrusy herbal tea.",Should I use the coffee machine that is next to the sink or the one on top of the kitchen table?,Use the one that is next to the sink,"1. Use the grater to zest the lemon and orange into a small bowl.
+2. Brew a cup of hot water using the coffee machine.
+3. Add the zest to the hot water and let it steep for a few minutes to create a citrusy herbal tea.","1. Use the grater to zest the lemon and orange into a small bowl.
+2. Brew a cup of hot water using the coffee machine.
+3. Add the zest to the hot water and let it steep for a few minutes to create a citrusy herbal tea.",0,use the dish soap that is next to the sink,A) Use the grater to zest the lemon and orange into a small bowl.,"A) use the grater to zest the lemon and orange into a small bowl
+B) use the coffee machine next to the sink"
+367,"ladle, stainless steel tablespoon, wooden tablespoon, silver teaspoon, bottle of red wine, bottle of white wine, bottle opener, corkscrew, sliced whole wheat bread, croissant, uncut white bread, toasted bread, paring knife, salmon, shrimps, mussels, muesli, cornflakes","a ladle, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a bottle of red wine, a bottle of white wine, a bottle opener, a corkscrew, sliced whole wheat bread, a croissant, uncut white bread, toasted bread, a paring knife, a salmon, shrimps, mussels, muesli, cornflakes","Please, use the paring knife to devein the shrimps, then place them in a bowl. Rinse the bowl and the knife with hot water and dish soap when you are finished.","Robot, please use the small knife to remove the veins from the shrimp and place them in a bowl. After you finish, wash the bowl and knife with hot water and soap.",common_sense_knowledge,,"Please, use the paring knife to devein the shrimps.",Which surface should I use to cut the shrimps?,You should use a cutting board.,"1. Use the paring knife to devein the shrimps and place them in a bowl.
+2. Rinse the bowl and knife with hot water and dish soap.
+3. Prepare the salmon by seasoning it with salt, pepper, and lemon juice.
+4. Preheat the oven to 375°F.
+5. Place the seasoned salmon on a baking sheet lined with foil and bake for 15-20 minutes or until cooked through.
+6. While the salmon is cooking, prepare a salad with mussels, mixed greens, cherry tomatoes, and a vinaigrette dressing.
+7. Toast some bread slices to serve as a side for the meal.
+8. Once everything is ready, plate up the shrimp in one bowl, salmon on another plate, salad on another plate, and bread slices on a serving platter.
+9. Serve everything hot and enjoy your meal!","1. Use the paring knife to devein the shrimps.
+2. Rinse the bowl and knife with hot water and dish soap.
+3. Prepare the salmon by seasoning it with salt, pepper, and lemon juice.
+4. Preheat the oven to 375°F.
+5. Place the seasoned salmon on a baking sheet lined with foil and bake for 15-20 minutes or until cooked through.
+6. While the salmon is cooking, prepare a salad with mussels, mixed greens, cherry tomatoes, and a vinaigrette dressing.
+7. Toast some bread slices to serve as a side for the meal.
+8. Once everything is ready, plate up the shrimp in one bowl, salmon on another plate, salad on another plate, and bread slices on a serving platter.
+9. Serve everything hot and enjoy your meal!",0,use a cutting board when preparing food,A) Use the paring knife to devein the shrimps.,"A) use the cutting board to cut the shrimps
+B) use the kitchen table to cut the shrimps"
+181,"metal bowl, plastic bowl, ceramic bowl, frying pan, grill pan, sauce pan, muesli, cornflakes, almond milk chocolate tablet, dark chocolate tablet, milk chocolate tablet, granulated sugar, table salt, bottle of white wine, bottle of red wine","a metal bowl, a plastic bowl, a ceramic bowl, a frying pan, a grill pan, a sauce pan, muesli, cornflakes, an almond milk chocolate tablet, a dark chocolate tablet, a milk chocolate tablet, granulated sugar, table salt, a bottle of white wine, a bottle of red wine","Robot, please use the frying pan to make a quick and easy chocolate and muesli dessert. Use a tablespoon of butter (if available in the kitchen), a dark chocolate tablet, and a cup of muesli. Melt the butter and chocolate together in the pan over medium heat, then mix in the muesli until well combined.","Kitchen robot, please prepare a simple dessert using the frying pan. Combine a tablespoon of butter (if available), a dark chocolate bar, and a cup of muesli in the pan over medium heat until melted. Stir in the muesli until fully mixed. Thank you!",preferences,"frying pan, grill pan, sauce pan","Robot, please use a pan to make a quick and easy chocolate and muesli dessert. Use a tablespoon of butter (if available in the kitchen), a dark chocolate tablet, and a cup of muesli. Melt the butter and chocolate together in the pan over medium heat, then mix in the muesli until well combined.",Which type of pan should I use to make the dessert?,Use the frying pan,"1. Check if there is butter available in the kitchen
+2. If butter is available, melt a tablespoon of it in the frying pan over medium heat
+3. Break the dark chocolate tablet into pieces and add it to the melted butter, stirring until fully melted and combined
+4. Add a cup of muesli to the chocolate mixture in the pan, stirring until well coated and combined
+5. Remove from heat and let cool slightly before serving 
+6. Enjoy your quick and easy chocolate muesli dessert!","1. Check if there is butter available in the kitchen
+2. If butter is available, melt a tablespoon of it in the pan over medium heat
+3. Break the dark chocolate tablet into pieces and add it to the melted butter, stirring until fully melted and combined
+4. Add a cup of muesli to the chocolate mixture in the pan, stirring until well coated and combined
+5. Remove from heat and let cool slightly before serving 
+6. Enjoy your quick and easy chocolate muesli dessert!",1,use the frying pan to cook the food,A) Melt a tablespoon of butter in the pan over medium heat,"A) use the frying pan to melt a tablespoon of butter
+B) use the sauce pan to melt a tablespoon of butter"
+386,"metal bowl, plastic bowl, ceramic bowl, plastic food storage container, glass food storage container, salmon, shrimps, oysters, seaweed, sardines, mussels, bacon, ham, vanilla yogurt cup, strawberry yogurt cup, greek yogurt cup, Pepsi can, beer can, grater","a metal bowl, a plastic bowl, a ceramic bowl, a plastic food storage container, a glass food storage container, a salmon, shrimps, oysters, a seaweed, sardines, mussels, bacon, ham, a vanilla yogurt cup, a strawberry yogurt cup, a greek yogurt cup, a Pepsi can, a beer can, a grater","Prepare a seafood platter.
+Here's how the kitchen robot might execute this task:
+Begin by retrieving the seafood items from the fridge: salmon, shrimps, oysters, sardines, and mussels.
+Thoroughly rinse the seafood under cold water to remove any impurities and pat them dry with paper towels.
+Preheat the oven to the appropriate temperature for baking or grilling the seafood.
+While the oven is preheating, prepare the plastic food storage container and the glass food storage container for storing any leftover seafood or ingredients.
+Arrange the metal bowl, plastic bowl, ceramic bowl, and the plastic food storage container on the kitchen table to serve as vessels for the seafood platter.
+Place the salmon fillet on a baking tray lined with aluminum foil or parchment paper, season it with salt, pepper, and any desired herbs or spices, and place it in the oven to bake or grill until cooked through.
+Meanwhile, prepare the shrimps by deveining them and removing the shells if necessary. Season them with salt, pepper, and a squeeze of lemon juice for added flavor.
+Heat a frying pan on the stove and cook the shrimps in a little olive oil until they turn pink and opaque.
+Next, arrange the oysters on a serving platter, shucking them if necessary, and garnish them with a wedge of lemon.
+Open the can of sardines and drain them well before arranging them on the ceramic bowl.
+Steam the mussels in a pot with a splash of white wine until they open up, then transfer them to the plastic bowl.
+Once the salmon is cooked to perfection, remove it from the oven and transfer it to the metal bowl, flaking it into bite-sized pieces.
+Arrange the cooked shrimps, oysters, sardines, and mussels alongside the salmon on the kitchen table, creating an attractive seafood platter.
+Finally, garnish the platter with a sprig of fresh herbs, such as parsley or dill, for added visual appeal.
+Serve the seafood platter with accompaniments such as lemon wedges, cocktail sauce, tartar sauce, or aioli, and invite guests to enjoy a delicious seafood feast.","Robot, please create a seafood platter using the ingredients in the fridge. Rinse and dry the seafood, preheat the oven, prepare containers for leftovers, arrange bowls on the table. Season and cook the salmon in the oven. Devein and cook the shrimps on the stove. Shuck and garnish oysters, drain sardines into a bowl. Steam mussels with wine in another bowl. Flake salmon into pieces once cooked. Arrange all seafood on table with garnish. Serve with lemon wedges and sauces for guests to enjoy a delicious seafood feast.",safety,,Prepare a seafood platter.,Can I use the dishwasher to cook the seafood?,"No, you cannot use the dishwasher to cook food. You should use the oven or stove for cooking. ","1. Retrieve the seafood items from the fridge: salmon, shrimps, oysters, sardines, and mussels.
+2. Rinse the seafood under cold water and pat them dry with paper towels.
+3. Preheat the oven for baking or grilling.
+4. Prepare the plastic food storage container and glass food storage container for leftovers.
+5. Arrange bowls on kitchen table for serving.
+6. Season and bake/grill the salmon in the oven.
+7. Devein and cook shrimps on stove.
+8. Shuck oysters and garnish with lemon wedges.
+9. Drain sardines and arrange in ceramic bowl.
+10. Steam mussels in pot with white wine until they open up, then transfer to plastic bowl
+11. Flake cooked salmon into metal bowl
+12.Arrange all seafood on serving platters
+13.Garnish platter with fresh herbs
+14.Serve seafood platter with accompaniments","1. Retrieve the seafood items from the fridge: salmon, shrimps, oysters, sardines, and mussels.
+2. Rinse the seafood under cold water and pat them dry with paper towels.
+3. Preheat the oven for baking or grilling.
+4. Prepare the plastic food storage container and glass food storage container for leftovers.
+5. Arrange bowls on kitchen table for serving.
+6. Season and bake/grill the salmon in the oven.
+7. Devein and cook shrimps on stove.
+8. Shuck oysters and garnish with lemon wedges.
+9. Drain sardines and arrange in ceramic bowl.
+10. Steam mussels in pot with white wine until they open up, then transfer to plastic bowl
+11.Flake cooked salmon into metal bowl
+12.Arrange all seafood on serving platters
+13.Garnish platter with fresh herbs
+14.Serve seafood platter with accompaniments",10,do not use the dishwasher for cooking food use the oven or stove instead,pick up the metal bowl and flake the cooked salmon into it.,"A) Use the oven to cook the seafood
+B) Use the frying pan to cook the seafood"
+328,"ladle, plastic food storage container, glass food storage container, mixer, mozarella sticks, cheddar cheese slices, parmesan, fresh mozarella package, cream cheese, blue cheese, glass milk bottle, oat milk bottle, basmati rice, jasmine rice, chocolate cake, strawberry cake, cheesecake, carrot cake, ice cream cake, vanilla cake","a ladle, a plastic food storage container, a glass food storage container, a mixer, mozarella sticks, cheddar cheese slices, parmesan, a fresh mozarella package, cream cheese, blue cheese, a glass milk bottle, an oat milk bottle, basmati rice, jasmine rice, a chocolate cake, a strawberry cake, a cheesecake, a carrot cake, an ice cream cake, a vanilla cake","Use the mixer to blend together a cup of cream cheese, a quarter cup of grated parmesan, and a tablespoon of milk until smooth. Scoop the mixture into a plastic food storage container and place it in the fridge to chill. While the mixture is chilling, use the ladle to scoop out a serving of basmati rice and place it on a plate. Heat up the mozzarella sticks in the microwave and place them on the plate next to the rice. Once the cream cheese mixture is chilled, scoop a small portion onto the plate and place a slice of cheddar cheese on top. Serve the plate with a glass of oat milk on the side.","Robot, please use the blender to mix together a cup of soft cheese, a quarter cup of grated hard cheese, and a tablespoon of dairy until it becomes smooth. Put the mixture into a plastic container and place it in the refrigerator to cool. While waiting for the mixture to chill, use the large spoon to scoop out a portion of long-grain rice and put it on a dish. Warm up the cheese sticks in the microwave and place them on the dish next to the rice. Once the cheese mixture is cold, scoop some onto the plate and add a slice of hard cheese on top. Serve with a glass of plant-based milk on the side.",common_sense_knowledge,,"Use the mixer to blend together a cup of cream cheese, a quarter cup of grated parmesan, and a tablespoon of milk until smooth. Scoop the mixture into a plastic food storage container and place it in the fridge to chill. While the mixture is chilling, use the ladle to scoop out a serving of basmati rice and place it on a plate. Heat up the mozzarella sticks in the microwave and place them on the plate next to the rice. Once the cream cheese mixture is chilled, scoop a small portion onto the plate and place a slice of cheddar cheese on top. Serve the plate with a glass of oat milk on the side.",Should I heat up all types of food in this task?,Only heat up mozzarella sticks in this task.,"1. Use the mixer to blend together cream cheese, parmesan, and milk
+2. Scoop the mixture into a plastic food storage container and place it in the fridge to chill
+3. Use the ladle to scoop out a serving of basmati rice and place it on a plate
+4. Heat up the mozzarella sticks in the microwave and place them on the plate next to the rice
+5. Once the cream cheese mixture is chilled, scoop a small portion onto the plate and place a slice of cheddar cheese on top
+6. Serve the plate with a glass of oat milk on the side","1. Use the mixer to blend together cream cheese, parmesan, and milk
+2. Scoop the mixture into a plastic food storage container and place it in the fridge to chill
+3. Use the ladle to scoop out a serving of basmati rice and place it on a plate
+4. Heat up the mozzarella sticks in the microwave and place them on the plate next to the rice
+5. Once the cream cheese mixture is chilled, scoop a small portion onto the plate and place a slice of cheddar cheese on top
+6. Serve the plate with a glass of oat milk on the side",0,heat up only mozzarella sticks for this task,"pick up the mixer and blend together cream cheese, parmesan, and milk","A) use the mixer to blend together cream cheese, parmesan, and milk
+B) do not heat up all types of food"
+451,"clean sponge, dirty sponge, dish soap, blender, mixer, ladle, shepherd's pie, apple pie, cream pie, key lime pie, pumpkin pie, sunflower oil, olive oil, glass milk bottle, oat milk bottle, mixed fruit jam, condensed milk, cookies, crackers","a clean sponge, a dirty sponge, a dish soap, a blender, a mixer, a ladle, shepherd's pie, apple pie, cream pie, key lime pie, pumpkin pie, sunflower oil, olive oil, a glass milk bottle, an oat milk bottle, mixed fruit jam, condensed milk, cookies, crackers",Please fill the glass milk bottle with oat milk.,"Robot, please pour oat milk into the glass bottle.",common_sense_knowledge,,Please fill the glass container with oat milk.,Which container should I use to fill with oat milk?,The glass milk bottle.,"1. Fill the glass milk bottle with oat milk
+2. Put away the dirty sponge in the dishwasher
+3. Wash any dirty dishes in the sink with dish soap and clean sponge
+4. Put away any clean dishes from the dishwasher
+5. Organize and clean up any clutter on the kitchen table
+6. Make a cup of tea using the tea kettle
+7. Enjoy a cookie or cracker as a snack","1. Fill the glass container with oat milk
+2. Put away the dirty sponge in the dishwasher
+3. Wash any dirty dishes in the sink with dish soap and clean sponge
+4. Put away any clean dishes from the dishwasher
+5. Organize and clean up any clutter on the kitchen table
+6. Make a cup of tea using the tea kettle
+7. Enjoy a cookie or cracker as a snack",0,please pour the milk from the glass bottle into a container,A) Fill the glass container with oat milk,"A) use the glass food storage container to fill with oat milk
+B) use the plastic food storage container to fill with oat milk"
+155,"bottle opener, plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, spatula, potato chips, jalapeno chips, rice chips, mixed fruit jam, avocado, banana, glass milk bottle, oat milk bottle, glass","a bottle opener, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a spatula, potato chips, jalapeno chips, rice chips, mixed fruit jam, an avocado, a banana, a glass milk bottle, an oat milk bottle, a glass","Robot, please use the bottle opener to open the glass milk bottle and pour it into a glass.","Hey kitchen robot, can you please use the opener to open the glass bottle of milk and pour it into a cup?",common_sense_knowledge,,"Robot, please use the bottle opener to open the glass milk bottle and pour it into a glass.",Which container should you pour the milk into after opening the bottle?,Pour it into a glass.,"1. Use the bottle opener to open the glass milk bottle.
+2. Pour the milk into a glass.
+3. Place the bottle opener back in its designated spot.
+4. Clean up any spills or messes made during the process.","1. Use the bottle opener to open the glass milk bottle.
+2. Pour the milk into a glass.
+3. Place the bottle opener back in its designated spot.
+4. Clean up any spills or messes made during the process.",0,please pour the liquid into a glass,A) use the bottle opener to open the glass milk bottle,"A) pour the milk into a plastic dinner plate
+B) pour the milk into a ceramic dinner plate"
+228,"toaster, clean sponge, dirty sponge, dish soap, ladle, energy bar, almond milk chocolate tablet, dark chocolate tablet, milk chocolate tablet, glass milk bottle, oat milk bottle, mayonnaise, ketchup, tomato paste","a toaster, a clean sponge, a dirty sponge, a dish soap, a ladle, an energy bar, an almond milk chocolate tablet, a dark chocolate tablet, a milk chocolate tablet, a glass milk bottle, an oat milk bottle, mayonnaise, ketchup, tomato paste","Robot, please use the toaster to make a quick and easy chocolate-covered energy bar. Use an energy bar and a dark chocolate tablet. Melt the chocolate tablet in the microwave (if available in the kitchen) or in a saucepan on the stove. Dip the energy bar in the melted chocolate until it is fully coated. Place the chocolate-covered energy bar on a plate and let it cool in the fridge for a few minutes.","Kitchen robot, please prepare a chocolate-covered energy bar using the toaster. Utilize a dark chocolate tablet and an energy bar. Melt the chocolate tablet in the microwave or on the stove. Dip the energy bar into the melted chocolate until fully coated. Place the chocolate-covered energy bar on a plate and allow it to cool in the fridge for a few minutes.",common_sense_knowledge,,"Robot, please use the toaster to make a quick and easy chocolate-covered energy bar. Use an energy bar and a dark chocolate tablet. Melt the chocolate tablet in the microwave (if available in the kitchen) or in a saucepan on the stove. Dip the energy bar in the melted chocolate until it is fully coated. Place the chocolate-covered energy bar on a plate and let it cool in the fridge for a few minutes.
+",Should I use almond milk or oat milk to melt with dark chocolate for coating?,"You should use dark chocolate only for coating, not almond milk or oat milk","1. Check if there is a microwave available in the kitchen to melt the dark chocolate tablet.
+2. If there is no microwave, use a saucepan on the stove to melt the dark chocolate tablet.
+3. While melting the chocolate, prepare the energy bar by unwrapping it and getting it ready for dipping.
+4. Once the dark chocolate is melted, dip the energy bar into it until fully coated.
+5. Place the chocolate-covered energy bar on a plate and let it cool in the fridge for a few minutes.
+6. Enjoy your quick and easy chocolate-covered energy bar!","1. Check if there is a microwave available in the kitchen to melt the dark chocolate tablet.
+2. If there is no microwave, use a saucepan on the stove to melt the dark chocolate tablet.
+3. While melting the chocolate, prepare the energy bar by unwrapping it and getting it ready for dipping.
+4. Once the dark chocolate is melted, dip the energy bar into it until fully coated.
+5. Place the chocolate-covered energy bar on a plate and let it cool in the fridge for a few minutes.
+6. Enjoy your quick and easy chocolate-covered energy bar!",0,use dark chocolate for coating do not use almond milk or oat milk,A) Check if there is a microwave available in the kitchen,"A) check if there is a microwave available in the kitchen
+B) take out the dark chocolate tablet from the pantry
+C) decide whether to use almond milk or oat milk for melting with dark chocolate"
+292,"chair, spatula, bread knife, paring knife, butter knife, cutting board, mixed fruit jam, eggs, ginger biscuits, chocolate teacakes, crackers, cookies, digestive biscuits, black tea bags, green tea bags","a chair, a spatula, a bread knife, a paring knife, a butter knife, a cutting board, mixed fruit jam, eggs, ginger biscuits, chocolate teacakes, crackers, cookies, digestive biscuits, black tea bags, green tea bags","Spread a layer of mixed fruit jam on top of two ginger biscuits using the butter knife, and place them on a plate on the kitchen table.","Robot, please take the butter knife and spread some mixed fruit jam on two ginger biscuits. Then, place them on a plate on the kitchen table. Thank you!",common_sense_knowledge,,"Spread a layer of mixed fruit jam on top of two ginger biscuits using the butter knife, and place them on a plate.",Where should the robot place the plate of ginger biscuits after spreading jam on them?,On the kitchen table.,"1. Spread a layer of mixed fruit jam on top of two ginger biscuits using the butter knife.
+2. Place the jam-covered ginger biscuits on a plate on the kitchen table.
+3. Boil water in the tea kettle for black tea.
+4. Prepare black tea using a black tea bag and pour it into a mug.
+5. Enjoy my snack and tea at the kitchen table while taking a break from work.","1. Spread a layer of mixed fruit jam on top of two ginger biscuits using the butter knife.
+2. Place the jam-covered ginger biscuits on a plate.",1,place the item on the kitchen table,"A) pick up the spatula
+B) pick up the bread knife","A) place the plate of ginger biscuits on the kitchen table
+B) place the plate of ginger biscuits on a tray"
+268,"corkscrew, vegetable peeler, potato masher, jalapeno chips, rice chips, glass milk bottle, oat milk bottle","a corkscrew, a vegetable peeler, a potato masher, jalapeno chips, rice chips, a glass milk bottle, an oat milk bottle","Open the glass milk bottle, pour a glass of milk, and place it on the kitchen table.","Robot, please open the glass milk bottle, pour a glass of milk, and place it on the kitchen table.",preferences," glass milk bottle, oat milk bottle","Open the milk bottle, pour a glass of milk, and place it on the kitchen table.",Which type of milk should be poured into the glass?,The one from the oat milk bottle.,"1. Open the glass milk bottle
+2. Pour a glass of milk
+3. Place the glass of milk on the kitchen table
+4. Check if there are any dirty dishes in the dishwasher and start a wash cycle if needed
+5. Fill the tea kettle with water and turn it on to boil for tea or coffee
+6. Check if there are any leftovers in the fridge that need to be heated up in the microwave or oven 
+7. Clean any spills or messes on the kitchen table or countertops 
+8. Organize and tidy up any items that are out of place in the kitchen 
+9. Take out any trash or recycling that needs to be disposed of 
+10. Enjoy a break with a cup of tea or coffee and some snacks from the pantry","1. Open the milk bottle
+2. Pour a glass of milk
+3. Place the glass of milk on the kitchen table
+4. Check if there are any dirty dishes in the dishwasher and start a wash cycle if needed
+5. Fill the tea kettle with water and turn it on to boil for tea or coffee
+6. Check if there are any leftovers in the fridge that need to be heated up in the microwave or oven 
+7. Clean any spills or messes on the kitchen table or countertops 
+8. Organize and tidy up any items that are out of place in the kitchen 
+9. Take out any trash or recycling that needs to be disposed of 
+10. Enjoy a break with a cup of tea or coffee and some snacks from the pantry",0,use the oat milk from the bottle,"A) open the glass milk bottle
+B) open the oat milk bottle","A) pour oat milk into the glass
+B) pour regular milk into the glass"
+253,"metal bowl, plastic bowl, ceramic bowl, citrus juicer, pineapple, banana, lemon, apple, pear, melon, muesli, cornflakes","a metal bowl, a plastic bowl, a ceramic bowl, a citrus juicer, a pineapple, a banana, a lemon, an apple, a pear, a melon, muesli, cornflakes","Cut the pineapple into slices, and then place the slices in the ceramic bowl.","Robot, please slice the pineapple and place the pieces in the ceramic bowl.",preferences,"metal bowl, plastic bowl, ceramic bowl","Cut the pineapple into slices, and then place the slices in a bowl.",Which bowl should I use to place the pineapple slices in?,Use the ceramic bowl to place the pineapple slices in.,"1. Cut the pineapple into slices
+2. Place the slices in the ceramic bowl
+3. Wash and cut the lemon into wedges
+4. Prepare a pitcher of lemon water with the lemon wedges
+5. Put any leftover pineapple slices in a container for later use","1. Cut the pineapple into slices
+2. Place the slices in the bowl
+3. Wash and cut the lemon into wedges
+4. Prepare a pitcher of lemon water with the lemon wedges
+5. Put any leftover pineapple slices in a container for later use",1,place the pineapple slices in the ceramic bowl,"A) place the lemon slices in the metal bowl
+B) place the lemon slices in the plastic bowl
+C) place the lemon slices in the ceramic bowl","A) use the metal bowl to place the pineapple slices in
+B) use the plastic bowl to place the pineapple slices in
+C) use the ceramic bowl to place the pineapple slices in"
+369,"stainless steel tablespoon, wooden tablespoon, silver teaspoon, paper towels, bacon, ham, granulated sugar, table salt, sea salt, muesli, cornflakes, coconut oil, olive oil, sunflower oil, blackberries, raspberries, bleuberries","a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, paper towels, bacon, ham, granulated sugar, table salt, sea salt, muesli, cornflakes, coconut oil, olive oil, sunflower oil, blackberries, raspberries, bleuberries","Please, use the stainless steel tablespoon to transfer the blackberries, the raspberries, and the blueberries from their respective containers to a small bowl. Then, use the wooden tablespoon to mix the berries together.","Robot, please use the metal spoon to transfer the blackberries, raspberries, and blueberries from their containers to a small bowl. After that, use the wooden spoon to mix them together.",preferences,,"Please, use a tablespoon to transfer the berries from their containers to a bowl. Then, mix them together.",Which type of tablespoon should be used to transfer the berries?,Use the stainless steel tablespoon.,"1. Use the stainless steel tablespoon to transfer the blackberries from their container to a small bowl.
+2. Use the stainless steel tablespoon to transfer the raspberries from their container to the same small bowl.
+3. Use the stainless steel tablespoon to transfer the blueberries from their container to the same small bowl.
+4. Use the wooden tablespoon to mix all three types of berries together in the small bowl.","1. Use a tablespoon to transfer the blackberries from their container to a bowl.
+2. Use a tablespoon to transfer the raspberries from their container to the same bowl.
+3. Use a tablespoon to transfer the blueberries from their container to the same bowl.
+4. Mix all three types of berries together in the bowl.",0,use the stainless steel tablespoon for this task,"A) use the stainless steel tablespoon
+B) use the wooden tablespoon
+C) use the silver teaspoon","A) use the stainless steel tablespoon to transfer the blackberries from their container to a bowl
+B) use the wooden tablespoon to transfer the blackberries from their container to a bowl"
+462,"spatula, plastic food storage container, glass food storage container, paper towels, black seedless grapes, green seedless grapes, bottle of white wine, bottle opener","a spatula, a plastic food storage container, a glass food storage container, paper towels, black seedless grapes, green seedless grapes, a bottle of white wine, a bottle opener","Prepare a refreshing grape salad by gently mixing black and green seedless grapes in a plastic food storage container. Use a spatula to toss them together evenly. Serve the grape salad chilled in the glass food storage container. Open a bottle of white wine using the bottle opener and pour a glass to accompany the salad. After serving, use paper towels to wipe any spills and maintain a clean kitchen environment.","Robot, please create a delicious grape salad by gently mixing together the black and green seedless grapes in the plastic food storage container. Use the spatula to toss them evenly. Serve the salad chilled in the glass food storage container. Open the white wine bottle with the bottle opener and pour a glass to enjoy with your meal. Remember to clean up any spills using paper towels to keep our kitchen tidy. Thank you!",preferences,"black seedless grapes, green seedless grapes",Prepare a refreshing grape salad by gently mixing seedless grapes in a plastic food storage container.,What type of grapes should be used for the salad?,Black and green seedless grapes.,"1. Gather the black and green seedless grapes, plastic food storage container, glass food storage container, spatula, paper towels, bottle of white wine, and bottle opener.
+2. Wash the grapes under running water and remove any stems or spoiled grapes.
+3. Place the washed grapes in the plastic food storage container.
+4. Gently mix the black and green seedless grapes together using a spatula.
+5. Transfer the mixed grape salad into the glass food storage container for serving.
+6. Open a bottle of white wine using the bottle opener and pour a glass to accompany the salad.
+7. Use paper towels to wipe any spills or messes on kitchen surfaces.
+8. Enjoy your refreshing grape salad with a glass of white wine!","1. Gather the seedless grapes, plastic food storage container, glass food storage container, spatula, paper towels, bottle of white wine, and bottle opener.
+2. Wash the grapes under running water and remove any stems or spoiled grapes.
+3. Place the washed grapes in the plastic food storage container.
+4. Gently mix the seedless grapes together using a spatula.
+5. Transfer the mixed grape salad into the glass food storage container for serving.
+6. Open a bottle of white wine using the bottle opener and pour a glass to accompany the salad.
+7. Use paper towels to wipe any spills or messes on kitchen surfaces.
+8. Enjoy your refreshing grape salad with a glass of white wine!",0,please retrieve black and green seedless grapes,"A) gather the seedless grapes
+B) gather the plastic food storage container
+C) gather the glass food storage container
+D) gather the spatula
+E) gather the paper towels
+F) gather the bottle of white wine
+G) gather the bottle opener","A) use the black seedless grapes for the salad
+B) use the green seedless grapes for the salad"
+72,"dish rack, clean sponge, dirty sponge, dish soap, glass milk bottle, oat milk bottle, rice chips, jalapeno chips, potato chips, granulated sugar, sea salt, milk chocolate tablet, dark chocolate tablet, almond milk chocolate tablet","a dish rack, a clean sponge, a dirty sponge, a dish soap, a glass milk bottle, an oat milk bottle, rice chips, jalapeno chips, potato chips, granulated sugar, sea salt, a milk chocolate tablet, a dark chocolate tablet, an almond milk chocolate tablet","Kitchen Robot, please use the dish soap and the clean sponge to wash and dry the dishes in the sink. Then, use the dish rack to neatly organize the clean dishes.","Robot, please utilize the dish soap and the fresh sponge to cleanse and dry the dishes in the sink. Afterwards, arrange the spotless dishes neatly using the dish rack.",common_sense_knowledge,,"Kitchen Robot, please clean the dishes in the sink and organize them neatly on the dish rack.",Which items should I use to clean the dishes?,Use the dish soap and the clean sponge.,"1. Use the dish soap and clean sponge to wash the dishes in the sink.
+2. Rinse off the soap from the dishes with water.
+3. Dry off the dishes with a clean towel.
+4. Neatly organize the clean dishes on the dish rack.","1. Use the dish soap and clean sponge to wash the dishes in the sink.
+2. Rinse off the soap from the dishes with water.
+3. Dry off the dishes with a clean towel.
+4. Neatly organize the clean dishes on the dish rack.",0,use the dish soap and a clean sponge to wash the dishes,A) Use the dish soap and clean sponge to wash the dishes in the sink.,"A) use the dish soap and clean sponge to wash the dishes in the sink
+B) use the dirty sponge to wash the dishes in the sink"
+186,"metal bowl, plastic bowl, ceramic bowl, garlic press, frying pan, grill pan, sauce pan, garlic, cucumber, potato, carrot, tomato, sunflower oil, olive oil, canned olives","a metal bowl, a plastic bowl, a ceramic bowl, a garlic press, a frying pan, a grill pan, a sauce pan, a garlic, a cucumber, a potato, a carrot, a tomato, sunflower oil, olive oil, canned olives","Robot, please use the garlic press to crush two cloves of garlic. Heat up the frying pan on the stove and add two tablespoons of olive oil. Add the crushed garlic to the pan and sauté until fragrant. Meanwhile, peel and chop the potato and carrot into small cubes. Add the cubed vegetables to the pan and stir to combine with the garlic. Cook until the vegetables are tender, then add a can of olives and a diced tomato. Stir to combine and cook for another 2-3 minutes. Serve the vegetable and olive sauté in a ceramic bowl.","Kitchen robot, please crush two cloves of garlic using the garlic press. Heat up the frying pan on the stove and add two tablespoons of olive oil. Add the crushed garlic to the pan and sauté until it becomes aromatic. In the meantime, peel and chop the potato and carrot into small cubes. Add these diced vegetables to the pan with the garlic and stir them together. Cook until they are soft, then mix in a can of olives and a chopped tomato. Stir everything together and cook for an additional 2-3 minutes. Finally, serve the vegetable and olive sauté in a ceramic bowl.",common_sense_knowledge,,"Robot, please use the garlic press to crush two cloves of garlic. Heat up the frying pan on the stove and add two tablespoons of olive oil. Add the crushed garlic to the pan and sauté until fragrant. Meanwhile, peel and chop the potato and carrot into small cubes. Add the cubed vegetables to the pan and stir to combine with the garlic. Cook until the vegetables are tender, then add a can of olives and a diced tomato. Stir to combine and cook for another 2-3 minutes. Serve the vegetable and olive sauté in a ceramic bowl.",Which type of bowl should I use to serve the vegetable and olive sauté?,Use ceramic bowl,"1. Use the garlic press to crush two cloves of garlic.
+2. Heat up the frying pan on the stove and add two tablespoons of olive oil.
+3. Add the crushed garlic to the pan and sauté until fragrant.
+4. Peel and chop the potato and carrot into small cubes.
+5. Add the cubed vegetables to the pan and stir to combine with the garlic.
+6. Cook until the vegetables are tender.
+7. Add a can of olives and a diced tomato to the pan.
+8. Stir to combine and cook for another 2-3 minutes.
+9. Serve the vegetable and olive sauté in a ceramic bowl.
+
+Please let me know if you need any further assistance or clarification!","1. Use the garlic press to crush two cloves of garlic.
+2. Heat up the frying pan on the stove and add two tablespoons of olive oil.
+3. Add the crushed garlic to the pan and sauté until fragrant.
+4. Peel and chop the potato and carrot into small cubes.
+5. Add the cubed vegetables to the pan and stir to combine with the garlic.
+6. Cook until the vegetables are tender.
+7. Add a can of olives and a diced tomato to the pan.
+8. Stir to combine and cook for another 2-3 minutes.
+9. Serve the vegetable and olive sauté in a ceramic bowl.
+
+If you need any further assistance or clarification, please let me know!",10,use a ceramic bowl for mixing the ingredients,Thank you for the information. I will keep that in mind.,"A) use the metal bowl to serve the vegetable and olive sauté
+B) use the plastic bowl to serve the vegetable and olive sauté
+C) use the ceramic bowl to serve the vegetable and olive sauté"
+114,"whisk, clean sponge, dirty sponge, dish soap, shears, cream cheese, fresh mozarella package, cheddar cheese slices, mozarella sticks, honey, tomato, black pepper, cucumber, garlic, carrot, potato, bell pepper","a whisk, a clean sponge, a dirty sponge, a dish soap, shears, cream cheese, a fresh mozarella package, cheddar cheese slices, mozarella sticks, honey, a tomato, a black pepper, a cucumber, a garlic, a carrot, a potato, a bell pepper","Kitchen Robot, please whisk together cream cheese and honey in a bowl to make a sweet cream cheese dip.","Robot, please mix together the cream cheese and honey in a bowl to create a sweet cream cheese dip.",common_sense_knowledge,,"Kitchen Robot, please mix together cream cheese and honey in a bowl to make a sweet cream cheese dip.",Which tool should I use to mix the cream cheese and honey together?,You should use the whisk.,"1. Gather the cream cheese and honey from the fridge.
+2. Take out a bowl from the kitchen cabinet.
+3. Measure out the desired amount of cream cheese and honey into the bowl.
+4. Use the whisk to mix together the cream cheese and honey until smooth and well combined.
+5. Serve the sweet cream cheese dip in a clean dish for dipping with crackers or fruit slices.
+
+Let me know if you need any further assistance!","1. Gather the cream cheese and honey from the fridge.
+2. Take out a bowl from the kitchen cabinet.
+3. Measure out the desired amount of cream cheese and honey into the bowl.
+4. Use the whisk to mix together the cream cheese and honey until smooth and well combined.
+5. Serve the sweet cream cheese dip in a clean dish for dipping with crackers or fruit slices.",0,use the whisk to mix the ingredients,"A) pick up the cream cheese from the fridge
+B) pick up the honey from the fridge","A) use the whisk to mix the cream cheese and honey together
+B) use a spoon to mix the cream cheese and honey together"
+76,"grater, garlic press, ladle, glass milk bottle, oat milk bottle, honey, canned olives, dark chocolate tablet, milk chocolate tablet, almond milk chocolate tablet, sunflower oil, olive oil","a grater, a garlic press, a ladle, a glass milk bottle, an oat milk bottle, honey, canned olives, a dark chocolate tablet, a milk chocolate tablet, an almond milk chocolate tablet, sunflower oil, olive oil","Kitchen Robot, please use the grater to grate some dark chocolate onto a plate, then drizzle some honey and olive oil over the top. Serve as a dessert topping.","Dear kitchen assistant, please grate some dark chocolate using the grater onto a plate. After that, drizzle honey and olive oil over the grated chocolate. Serve this mixture as a dessert topping. Thank you!",preferences,,"Kitchen Robot, please use the grater to grate some dark chocolate onto a plate, then drizzle some honey and olive oil over the top. Serve as a dessert topping.",Which type of oil should be used for drizzling over the grated dark chocolate?,Olive oil.,"1. Retrieve the grater from the kitchen drawer.
+2. Grate some dark chocolate onto a plate.
+3. Drizzle honey over the grated chocolate.
+4. Drizzle olive oil over the honey and chocolate mixture.
+5. Serve as a dessert topping on a separate plate or dish.","1. Retrieve the grater from the kitchen drawer.
+2. Grate some dark chocolate onto a plate.
+3. Drizzle honey over the grated chocolate.
+4. Drizzle olive oil over the honey and chocolate mixture.
+5. Serve as a dessert topping on a separate plate or dish.",0,use olive oil in the recipe,A) pick up the grater from the kitchen drawer,"A) use sunflower oil for drizzling over the grated dark chocolate
+B) use olive oil for drizzling over the grated dark chocolate"
+414,"oven mitts, potholder, kitchen towel, clean sponge, dirty sponge, dish soap, blender, mixer, crackers, ginger biscuits, chocolate teacakes, mixed fruit jam, condensed milk, eggs, honey, muesli, cornflakes","oven mitts, a potholder, a kitchen towel, a clean sponge, a dirty sponge, a dish soap, a blender, a mixer, crackers, ginger biscuits, chocolate teacakes, mixed fruit jam, condensed milk, eggs, honey, muesli, cornflakes","After breakfast, clean the kitchen surfaces with a kitchen towel and soapy water.","Robot, please use the kitchen towel and soapy water to clean the kitchen surfaces after breakfast.",common_sense_knowledge,,Clean the kitchen surfaces.,What should be used to clean the kitchen surfaces?,A kitchen towel and soapy water.,"1. Start by putting away any leftover food in the fridge.
+2. Wash any dirty dishes and utensils in the sink with dish soap and the clean sponge.
+3. Wipe down the kitchen table with a damp kitchen towel.
+4. Use the oven mitts to remove any hot items from the oven or microwave.
+5. Clean any spills or messes on the stove or countertops with soapy water and a kitchen towel.
+6. Put away any dry ingredients like crackers, biscuits, muesli, cornflakes, etc., back into their respective containers.
+7. Lastly, make sure to empty and clean out the dishwasher if it's full of dirty dishes.
+
+After completing these tasks, you can enjoy a well-organized and clean office kitchen!","1. Start by putting away any leftover food in the fridge.
+2. Wash any dirty dishes and utensils in the sink with dish soap and the clean sponge.
+3. Wipe down the kitchen table with a damp kitchen towel.
+4. Use the oven mitts to remove any hot items from the oven or microwave.
+5. Clean any spills or messes on the stove or countertops with soapy water and a kitchen towel.
+6. Put away any dry ingredients like crackers, biscuits, muesli, cornflakes, etc., back into their respective containers.
+7. Lastly, make sure to empty and clean out the dishwasher if it's full of dirty dishes.
+
+After completing these tasks, you can enjoy a well-organized and clean office kitchen!",0,use a kitchen towel and soapy water to clean the surface,"A) Put away the crackers in the fridge
+B) Put away the ginger biscuits in the fridge
+C) Put away the chocolate teacakes in the fridge","A) use a clean sponge and dish soap to clean the kitchen surfaces
+B) use a kitchen towel to wipe down the kitchen surfaces"
+174,"ladle, corkscrew, canned olives, sliced whole wheat bread, uncut white bread","a ladle, a corkscrew, canned olives, sliced whole wheat bread, uncut white bread","Robot, please use the corkscrew to open a bottle of white wine. Then, use the ladle to scoop out a serving of canned olives and place them on a slice of whole wheat bread. Serve the olives and bread with a glass of white wine.","Kitchen robot, please utilize the corkscrew to uncork a bottle of white wine. Then, take the ladle to scoop out a portion of canned olives and place them on a slice of whole grain bread. Present the olives and bread alongside a glass of white wine.",preferences,"sliced whole wheat bread, uncut white bread","Robot, please use the corkscrew to open a bottle of white wine. Then, use the ladle to scoop out a serving of canned olives and place them on a slice of whole wheat bread. Serve the olives and bread with a glass of white wine.",Which type of bread should be used for serving the olives?,Use the sliced whole wheat bread,"1. Use the corkscrew to open a bottle of white wine.
+2. Use the ladle to scoop out a serving of canned olives.
+3. Place the olives on a slice of whole wheat bread.
+4. Serve the olives and bread with a glass of white wine.","1. Use the corkscrew to open a bottle of white wine.
+2. Use the ladle to scoop out a serving of canned olives.
+3. Place the olives on a slice of whole wheat bread.
+4. Serve the olives and bread with a glass of white wine.",0,use the sliced whole wheat bread for making sandwiches,A) use the corkscrew to open a bottle of white wine,"A) use the sliced whole wheat bread for serving the olives
+B) use the uncut white bread for serving the olives"
+485,"ladle, paper towels, plastic food storage container, glass food storage container, mixed fruit jam, condensed milk, blackberries, bleuberries, raspberries, strawberries, cherries, greek yogurt cup, strawberry yogurt cup, coconut donut, maple bar","a ladle, paper towels, a plastic food storage container, a glass food storage container, mixed fruit jam, condensed milk, blackberries, bleuberries, raspberries, strawberries, cherries, a greek yogurt cup, a strawberry yogurt cup, a coconut donut, a maple bar",Turn on the microwave to warm up the maple bar for 15 seconds.,"Robot, please heat up the maple bar in the microwave for 15 seconds.",common_sense_knowledge,,Warm up the maple bar in the kitchen.,Which appliance in the kitchen is typically used to heat up food quickly?,The microwave.,"1. Turn on the microwave to warm up the maple bar for 15 seconds.
+2. Wash the ladle in the sink.
+3. Put away any leftover food in the plastic and glass food storage containers.
+4. Clean up any spills with paper towels.
+5. Put away any dishes in the dishwasher that need to be washed.
+6. Enjoy my warm maple bar as a snack!","1. Warm up the maple bar in the kitchen.
+2. Wash the ladle in the sink.
+3. Put away any leftover food in the plastic and glass food storage containers.
+4. Clean up any spills with paper towels.
+5. Put away any dishes in the dishwasher that need to be washed.
+6. Enjoy my warm maple bar as a snack!",0,use the microwave,A) Place the maple bar in the microwave and heat it up.,"A) use the microwave to warm up the maple bar in the kitchen
+B) use the oven to warm up the maple bar in the kitchen"
+170,"bottle opener, porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass, coffee machine, sea salt, table salt, muesli, cornflakes, honey, potato chips, jalapeno chips, rice chips, fresh mozarella package, cottage cheese","a bottle opener, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a coffee machine, sea salt, table salt, muesli, cornflakes, honey, potato chips, jalapeno chips, rice chips, a fresh mozarella package, cottage cheese","Robot, please use the coffee machine to make a cup of black coffee. ","Hey kitchen robot, can you brew a cup of black coffee using the coffee machine?",preferences," porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass","Robot, please use the coffee machine to make a cup of black coffee.",Which type of cup should I use to make the black coffee?,Use the porcelain cup for making hot beverages.,"1. Fill the coffee machine with water.
+2. Add coffee grounds to the filter basket.
+3. Place a cup under the spout.
+4. Press the button to start brewing the coffee.
+5. Wait for the coffee to finish brewing.
+6. Remove the cup of black coffee from the machine and serve it on the kitchen table for someone to enjoy.","1. Fill the coffee machine with water.
+2. Add coffee grounds to the filter basket.
+3. Place a cup under the spout.
+4. Press the button to start brewing the coffee.
+5. Wait for the coffee to finish brewing.
+6. Remove the cup of black coffee from the machine and serve it on a tray for someone to enjoy.",5,when making hot beverages please use the porcelain cup,"A) remove the cup of black coffee from the machine
+B) serve the black coffee on a tray","A) use the porcelain cup to make the black coffee
+B) use the ceramic mug to make the black coffee
+C) use the glass mug to make the black coffee"
+211,"potholder, bread knife, paring knife, butter knife, cutting board, blender, dark chocolate tablet, milk chocolate tablet, jalapeno chips, rice chips, muesli, cornflakes, bottled milk","a potholder, a bread knife, a paring knife, a butter knife, a cutting board, a blender, a dark chocolate tablet, a milk chocolate tablet, jalapeno chips, rice chips, muesli, cornflakes, a bottled milk","Robot, please use the paring knife and cutting board to chop the dark chocolate tablet into small pieces, and then use the blender to blend the chopped chocolate with a cup of hot milk to create a rich chocolate drink.","Kitchen robot, please chop the dark chocolate tablet into small pieces using the small knife and cutting surface, then blend the chopped chocolate with a cup of hot milk in the electric mixer to make a delicious chocolate drink.",preferences,"heat up, do not heat up","Robot, please use the paring knife and cutting board to chop the dark chocolate tablet into small pieces, and then use the blender to blend the chopped chocolate with a cup of hot milk to create a rich chocolate drink.",Should I heat up the milk before blending it with the chopped chocolate?,"Yes, please heat up a cup of milk before blending it with the chopped chocolate.","1. Use the paring knife and cutting board to chop the dark chocolate tablet into small pieces.
+2. Place the chopped chocolate into the blender.
+3. Pour a cup of hot milk into the blender with the chopped chocolate.
+4. Blend the mixture until smooth and creamy.
+5. Pour the rich chocolate drink into a mug and enjoy!","1. Use the paring knife and cutting board to chop the dark chocolate tablet into small pieces.
+2. Place the chopped chocolate into the blender.
+3. Pour a cup of hot milk into the blender with the chopped chocolate.
+4. Blend the mixture until smooth and creamy.
+5. Pour the rich chocolate drink into a mug and enjoy!",0,heat up a cup of milk before blending it with the chopped chocolate,A) Use the paring knife and cutting board to chop the dark chocolate tablet into small pieces.,"A) use the paring knife and cutting board to chop the dark chocolate tablet into small pieces
+B) heat up the milk before blending it with the chopped chocolate"
+9,"soup pot, stockpot, oven mitts, table salt, granulated sugar, sea salt, black tea bags, green tea bags, honey, bottle of white wine, bottle of red wine","a soup pot, a stockpot, oven mitts, table salt, granulated sugar, sea salt, black tea bags, green tea bags, honey, a bottle of white wine, a bottle of red wine","Kitchen Robot, please fill the soup pot with water and place it on the stove to make a soup.","Robot, please fill the pot with water and place it on the stove in the kitchen to make a soup.",common_sense_knowledge,"soup pot, stockpot","Kitchen Robot, please fill the pot with water and place it on the stove to make a soup.",Which pot should be filled with water and placed on the stove?,The soup pot.,"1. Fill the soup pot with water
+2. Place the soup pot on the stove
+3. Turn on the stove to start heating up the water
+4. Gather ingredients for the soup (vegetables, broth, seasonings)
+5. Chop and prepare vegetables for the soup
+6. Add vegetables and broth to the pot once water is boiling
+7. Season soup to taste with salt, pepper, herbs, etc.
+8. Let simmer on low heat until vegetables are cooked through
+9. Serve hot and enjoy!","1. Fill the pot with water
+2. Place the pot on the stove
+3. Turn on the stove to start heating up the water
+4. Gather ingredients for the soup (vegetables, broth, seasonings)
+5. Chop and prepare vegetables for the soup
+6. Add vegetables and broth to the pot once water is boiling
+7. Season soup to taste with salt, pepper, herbs, etc.
+8. Let simmer on low heat until vegetables are cooked through
+9. Serve hot and enjoy!",0,place the soup pot on the stove,"A) Fill the soup pot with water
+B) Fill the stockpot with water","A) fill the soup pot with water and place it on the stove
+B) fill the stockpot with water and place it on the stove"
+375,"ladle, blender, mixer, couscous, spaghetti, jasmine rice, basmati rice, brown rice, buckwheat, avocado, bread knife, paring knife, peach, coconut oil, sunflower oil, olive oil, honey, cottage cheese, cheddar cheese slices, parmesan","a ladle, a blender, a mixer, couscous, spaghetti, jasmine rice, basmati rice, brown rice, buckwheat, an avocado, a bread knife, a paring knife, a peach, coconut oil, sunflower oil, olive oil, honey, cottage cheese, cheddar cheese slices, parmesan","Prepare a couscous salad with avocado and peach.
+Here's a breakdown of the steps the robot would likely take to complete this task:
+1. Cook the couscous according to package instructions using the tea kettle or a saucepan on the stove.
+2. While the couscous is cooking, slice the avocado and peach using the bread knife and paring knife.
+3. Once the couscous is cooked and cooled, transfer it to a mixing bowl.
+4. Add the sliced avocado and peach to the couscous.
+5. Drizzle with olive oil and honey for dressing.
+6. Optionally, sprinkle with grated parmesan for added flavor.
+7. Use the ladle or a serving spoon to mix the salad ingredients thoroughly.","Robot, please make a salad with couscous, avocado, and peach. Follow these steps:
+1. Prepare the couscous as directed on the package using the tea kettle or a saucepan.
+2. Slice the avocado and peach with the bread knife and paring knife.
+3. Transfer the cooked and cooled couscous to a mixing bowl.
+4. Add the sliced avocado and peach to the couscous.
+5. Drizzle olive oil and honey over the salad for dressing.
+6. Optionally, sprinkle grated parmesan on top for extra flavor.
+7. Mix all ingredients together using a ladle or serving spoon before serving.",common_sense_knowledge,,"Make a salad with couscous, avocado, and peach.",How should the robot cook the couscous?,Cook the couscous according to package instructions using the tea kettle or a saucepan on the stove.,"1. Cook the couscous according to package instructions using the tea kettle or a saucepan on the stove.
+2. Slice the avocado and peach using the bread knife and paring knife.
+3. Transfer the cooked and cooled couscous to a mixing bowl.
+4. Add the sliced avocado and peach to the couscous.
+5. Drizzle with olive oil and honey for dressing.
+6. Optionally, sprinkle with grated parmesan for added flavor.
+7. Use the ladle or a serving spoon to mix the salad ingredients thoroughly before serving.","1. Cook the couscous according to package instructions using the tea kettle or a saucepan on the stove.
+2. Slice the avocado and peach using the bread knife and paring knife.
+3. Transfer the cooked and cooled couscous to a mixing bowl.
+4. Add the sliced avocado and peach to the couscous.
+5. Drizzle with olive oil and honey for dressing.
+6. Optionally, sprinkle with grated parmesan for added flavor.
+7. Use the ladle or a serving spoon to mix the salad ingredients thoroughly before serving.",0,prepare the couscous by following the instructions on the package using either the tea kettle or a saucepan on the stove,"A) Use the tea kettle to cook the couscous according to package instructions. 
+B) Use a saucepan on the stove to cook the couscous according to package instructions.","A) cook the couscous using the tea kettle
+B) cook the couscous using a saucepan on the stove"
+14,"frying pan, grill pan, sauce pan, knife block, energy bar, fresh mozarella package, mozarella sticks, olive oil, coconut oil, sunflower oil, uncut white bread, sliced whole wheat bread, toasted bread, greek yogurt cup, strawberry yogurt cup","a frying pan, a grill pan, a sauce pan, a knife block, an energy bar, a fresh mozarella package, mozarella sticks, olive oil, coconut oil, sunflower oil, uncut white bread, sliced whole wheat bread, toasted bread, a greek yogurt cup, a strawberry yogurt cup","Kitchen Robot, please heat up a frying pan on medium heat and add a tablespoon of olive oil. Once the oil is hot, add a mozzarella stick to the pan and cook it for 1-2 minutes on each side, or until it is golden brown and crispy. Serve the mozzarella stick on a plate.","Robot, please heat up the frying pan on medium heat and add a tablespoon of olive oil. Once the oil is hot, place a mozzarella stick in the pan and cook it for 1-2 minutes on each side, or until it is golden brown and crispy. Serve the cooked mozzarella stick on a plate.",common_sense_knowledge,"olive oil, coconut oil, sunflower oil","Kitchen Robot, please heat up a frying pan on medium heat and add a tablespoon of oil. Once the oil is hot, add a mozzarella stick to the pan and cook it for 1-2 minutes on each side, or until it is golden brown and crispy. Serve the mozzarella stick on a plate.",Which type of oil should be used for cooking the mozzarella stick?,Olive oil,"1. Heat up a frying pan on medium heat
+2. Add a tablespoon of olive oil to the pan
+3. Once the oil is hot, add a mozzarella stick to the pan
+4. Cook the mozzarella stick for 1-2 minutes on each side, or until golden brown and crispy
+5. Serve the mozzarella stick on a plate","1. Heat up a frying pan on medium heat
+2. Add a tablespoon of oil to the pan
+3. Once the oil is hot, add a mozzarella stick to the pan
+4. Cook the mozzarella stick for 1-2 minutes on each side, or until golden brown and crispy
+5. Serve the mozzarella stick on a plate",1,use olive oil in the recipe,"A) Add olive oil to the pan
+B) Add coconut oil to the pan
+C) Add sunflower oil to the pan","A) use olive oil for cooking the mozzarella stick
+B) use coconut oil for cooking the mozzarella stick
+C) use sunflower oil for cooking the mozzarella stick"
+225,"spatula, potholder, sliced whole wheat bread, uncut white bread, toasted bread, mixed fruit jam, canned olives","a spatula, a potholder, sliced whole wheat bread, uncut white bread, toasted bread, mixed fruit jam, canned olives","Robot, please use the spatula to spread a layer of mixed fruit jam on top of a slice of toasted bread.","Kitchen robot, please take the spatula and spread some mixed fruit jam on the toasted slice of bread.",preferences,"sliced whole wheat bread, uncut white bread, toasted bread","Robot, please use the spatula to spread a layer of mixed fruit jam on top of a slice of bread.",Which type of bread should the robot use for spreading the mixed fruit jam?,The robot should use a slice of toasted bread,"1. Retrieve the spatula and toasted bread from their respective locations.
+2. Open the jar of mixed fruit jam.
+3. Use the spatula to spread a layer of mixed fruit jam on top of the toasted bread.
+4. Place the prepared slice of toast on a plate or napkin for serving.
+5. Return the spatula and any unused ingredients to their original locations in the kitchen.","1. Retrieve the spatula and bread from their respective locations.
+2. Open the jar of mixed fruit jam.
+3. Use the spatula to spread a layer of mixed fruit jam on top of the bread.
+4. Place the prepared slice of bread on a plate or napkin for serving.
+5. Return the spatula and any unused ingredients to their original locations in the kitchen.",0,please use a slice of toasted bread for this recipe,"A) pick up the spatula
+B) pick up the sliced whole wheat bread","A) use the sliced whole wheat bread for spreading the mixed fruit jam
+B) use the uncut white bread for spreading the mixed fruit jam"
+284,"mixer, ladle, energy bar, ice cream cake, chocolate cake, carrot cake, vanilla cake, canned corn, canned beans, canned olives, cream pie, pumpkin pie","a mixer, a ladle, an energy bar, an ice cream cake, a chocolate cake, a carrot cake, a vanilla cake, canned corn, canned beans, canned olives, cream pie, pumpkin pie",Remove the ice cream cake from the fridge and then use the ladle to scoop out a single serving into a bowl.,"Robot, please take the ice cream cake from the refrigerator and use the ladle to scoop out a single portion into a bowl.",preferences," ice cream cake, chocolate cake, carrot cake, vanilla cake",Remove the cake from the fridge and then use the ladle to scoop out a single serving into a bowl.,Which type of cake should be removed from the fridge?,The ice cream cake.,"1. Remove the ice cream cake from the fridge
+2. Use the ladle to scoop out a single serving into a bowl
+3. Enjoy my delicious treat","1. Remove the cake from the fridge
+2. Use the ladle to scoop out a single serving into a bowl
+3. Enjoy my delicious treat",0,make an ice cream cake,"A) pick up the ice cream cake from the fridge
+B) pick up the chocolate cake from the fridge
+C) pick up the carrot cake from the fridge
+D) pick up the vanilla cake from the fridge","A) remove the ice cream cake from the fridge
+B) remove the chocolate cake from the fridge
+C) remove the carrot cake from the fridge
+D) remove the vanilla cake from the fridge"
+301,"oven mitts, bread knife, paring knife, butter knife, cutting board, grater, canned beans, canned green peas, canned olives, eggs, chicken balls, chicken nuggets","oven mitts, a bread knife, a paring knife, a butter knife, a cutting board, a grater, canned beans, canned green peas, canned olives, eggs, chicken balls, chicken nuggets","Use the bread knife to slice a piece of bread. Spread a thin layer of butter on the bread using the butter knife. Place a few chicken balls and chicken nuggets on top of the butter. Grate a small amount of parmesan cheese over the chicken using the greater. Place the bread in the oven and bake it at 350 degrees for 5-7 minutes, or until the cheese is melted and the chicken is heated through. While the bread is baking, use the paring knife to chop a few canned olives. Place the olives in a small bowl and set it aside. Remove the bread from the oven and place it on a plate. Serve the bread with the bowl of olives on the side.","Robot, please use the bread knife to cut a slice of bread. Spread a thin layer of butter on the bread using the butter knife. Place some chicken balls and nuggets on top of the butter. Grate a small amount of parmesan cheese over the chicken using the grater. Put the bread in the oven and bake it at 350 degrees for 5-7 minutes, or until the cheese is melted and the chicken is heated through. While waiting for the bread to bake, use the paring knife to chop some canned olives. Put them in a small bowl and set it aside. Take out the bread from oven and place it on a plate. Serve with olives on side dish.""",safety,,"Slice a piece of bread using the bread knife. Spread a thin layer of butter on the bread with the butter knife. Place a few chicken balls and chicken nuggets on top of the butter. Grate some parmesan cheese over the chicken using the grater. Bake in oven at 350 degrees for 5-7 minutes, or until cheese is melted and chicken is heated through. Chop some canned olives with the paring knife and place in a bowl on the side.",Can I use the oven to bake the bread?,"Yes, you can use the oven to bake the bread, but make sure to wear oven mitts and be careful when handling hot items.","1. Use the bread knife to slice a piece of bread
+2. Spread a thin layer of butter on the bread using the butter knife
+3. Place a few chicken balls and chicken nuggets on top of the buttered bread
+4. Grate a small amount of parmesan cheese over the chicken using the grater
+5. Place the bread in the oven and bake it at 350 degrees for 5-7 minutes
+6. While the bread is baking, use the paring knife to chop a few canned olives
+7. Place the olives in a small bowl and set it aside
+8. Remove the bread from oven and place it on a plate 
+9. Serve with olives on side","1. Slice a piece of bread using the bread knife
+2. Spread a thin layer of butter on the bread with the butter knife
+3. Place a few chicken balls and chicken nuggets on top of the buttered bread
+4. Grate some parmesan cheese over the chicken using the grater
+5. Bake in oven at 350 degrees for 5-7 minutes, or until cheese is melted and chicken is heated through
+6. Chop some canned olives with the paring knife and place in a bowl on the side",0,when baking bread in the oven make sure to wear oven mitts and handle hot items carefully,A) Use the bread knife to slice a piece of bread,"A) use the bread knife to slice a piece of bread
+B) preheat the oven before baking the bread"
+413,"spatula, ladle, clean sponge, dirty sponge, dish soap, strawberry yogurt cup, greek yogurt cup, vanilla yogurt cup, key lime pie, shepherd's pie, cream pie","a spatula, a ladle, a clean sponge, a dirty sponge, a dish soap, a strawberry yogurt cup, a greek yogurt cup, a vanilla yogurt cup, key lime pie, shepherd's pie, cream pie","After baking, let the cream pie cool on the kitchen table before serving.","Robot, please allow the cream pie to cool on the kitchen table after it has finished baking before serving.",common_sense_knowledge,,Let the cream pie cool before serving.,Where should I let the cream pie cool after baking?,Let it cool on the kitchen table before serving.,"1. Clean the dirty sponge with dish soap and water
+2. Load the dishwasher with any dirty dishes
+3. Put away any clean dishes from the dishwasher
+4. Fill the tea kettle with water and turn it on to boil for tea or coffee
+5. Prepare a snack using one of the yogurt cups or pies
+6. Enjoy your snack at the kitchen table while waiting for the cream pie to cool","1. Clean the dirty sponge with dish soap and water
+2. Load the dishwasher with any dirty dishes
+3. Put away any clean dishes from the dishwasher
+4. Fill the tea kettle with water and turn it on to boil for tea or coffee
+5. Prepare a snack using one of the yogurt cups or pies
+6. Enjoy your snack at the kitchen table while waiting for the cream pie to cool",0,allow the dish to cool on the kitchen table before serving,A) clean the dirty sponge with dish soap and water,"A) let the cream pie cool on the kitchen table
+B) let the cream pie cool on a wire rack"
+290,"potholder, chopsticks, stainless steel dinner fork, stainless steel salad fork, stainless steel dinner knife, eggs, energy bar","a potholder, chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, eggs, an energy bar","Slice the lemon in half and then use the garlic press to squeeze the juice from one half into a ceramic bowl, ensuring to catch any seeds with the press.","Robot, please cut the lemon in two and then extract the juice from one half using the garlic crusher into a ceramic bowl, making sure to catch any seeds with the crusher.",common_sense_knowledge,,"Slice the lemon in half and then use the garlic press to squeeze the juice from one half into a ceramic bowl, ensuring to catch any seeds with it.",What should be used to catch any seeds while squeezing the lemon juice?,The garlic press.,"1. Slice the lemon in half
+2. Use the garlic press to squeeze the juice from one half into a ceramic bowl
+3. Catch any seeds with the press","1. Slice the lemon in half
+2. Use the garlic press to squeeze the juice from one half into a ceramic bowl
+3. Catch any seeds with it",2,use the garlic press to crush garlic cloves,A) use the stainless steel dinner fork to catch any seeds,"A) use a strainer to catch any seeds while squeezing the lemon juice
+B) use your hand to catch any seeds while squeezing the lemon juice"
+389,"blender, mixer, ladle, knife block, honey, apple pie, shepherd's pie, key lime pie, cream pie, pumpkin pie, greek yogurt cup, vanilla yogurt cup, toaster, bread knife, butter knife, sliced whole wheat bread, toasted bread, cutting board, uncut white bread, paring knife, croissant, bottle of red wine, bottle of white wine","a blender, a mixer, a ladle, a knife block, honey, apple pie, shepherd's pie, key lime pie, cream pie, pumpkin pie, a greek yogurt cup, a vanilla yogurt cup, a toaster, a bread knife, a butter knife, sliced whole wheat bread, toasted bread, a cutting board, uncut white bread, a paring knife, a croissant, a bottle of red wine, a bottle of white wine","Prepare and serve a dessert platter.
+Here’s how the robot might execute this task:
+1. Gather the items: Collect the apple pie, shepherd's pie, key lime pie, cream pie, pumpkin pie, Greek yogurt cup, and vanilla yogurt cup from the kitchen.
+2. Prepare the pies: Using the bread knife, cut each pie into serving-sized slices.
+3. Arrange on platter:
+   - Place the apple pie slices on a portion of a large serving platter.
+   - Arrange the key lime pie, cream pie, and pumpkin pie slices in separate sections of the platter.
+   - Place the Greek yogurt and vanilla yogurt cups in small bowls or ramekins, and add them to the platter.
+4. Serve with honey: Place a small dish of honey on the platter, with a spoon for drizzling over the pies or yogurt if desired.
+5. Add utensils: Ensure there are enough forks, knives, and spoons for serving and eating.
+6. Present on the kitchen table: Set the platter on the kitchen table for serving.","Robot, please assemble a dessert platter by gathering the apple pie, shepherd's pie, key lime pie, cream pie, pumpkin pie, Greek yogurt cup, and vanilla yogurt cup from the kitchen. Use the bread knife to slice each pie into individual portions. Arrange the apple pie slices on one side of a large serving platter and separate the key lime pie, cream pie, and pumpkin pie slices in different sections. Place the Greek yogurt and vanilla yogurt cups in small bowls or ramekins on the platter. Add a dish of honey with a drizzling spoon for extra flavor. Make sure there are enough forks, knives, and spoons for serving and eating. Finally, present the dessert platter on the kitchen table for enjoyment.",preferences,"honey, apple pie, shepherd's pie, key lime pie, cream pie, pumpkin pie, greek yogurt cup, vanilla yogurt cup,",Create a dessert platter.,What items should be included on the dessert platter?,"The dessert platter should include apple pie, shepherd's pie, key lime pie, cream pie, pumpkin pie, Greek yogurt cup, and vanilla yogurt cup.","1. Gather the apple pie, shepherd's pie, key lime pie, cream pie, pumpkin pie, Greek yogurt cup, and vanilla yogurt cup.
+2. Use the bread knife to cut each pie into serving-sized slices.
+3. Arrange the apple pie slices on one section of a large serving platter.
+4. Separate and arrange the key lime pie, cream pie, and pumpkin pie slices in their own sections on the platter.
+5. Place the Greek yogurt and vanilla yogurt cups in small bowls or ramekins on the platter.
+6. Add a small dish of honey with a spoon for drizzling over the pies or yogurt if desired.
+7. Ensure there are enough forks, knives, and spoons for serving and eating.
+8. Set the dessert platter on the kitchen table for serving.","1. Gather the apple pie, shepherd's pie, key lime pie, cream pie, pumpkin pie, Greek yogurt cup, and vanilla yogurt cup.
+2. Use the bread knife to cut each dessert into serving-sized portions.
+3. Arrange the apple pie slices on one section of a large serving platter.
+4. Separate and arrange the key lime pie, cream pie, and pumpkin pie slices in their own sections on the platter.
+5. Place the Greek yogurt and vanilla yogurt cups in small bowls or ramekins on the platter.
+6. Add a small dish of honey with a spoon for drizzling over the desserts if desired.
+7. Ensure there are enough forks, knives, and spoons for serving and eating.
+8. Set the dessert platter on the kitchen table for serving.",1,prepare a dessert platter with apple pie shepherds pie key lime pie cream pie pumpkin pie greek yogurt cup and vanilla yogurt cup,"A) Use the bread knife to cut the apple pie into serving-sized portions
+B) Use the bread knife to cut the shepherd's pie into serving-sized portions
+C) Use the bread knife to cut the key lime pie into serving-sized portions
+D) Use the bread knife to cut the cream pie into serving-sized portions
+E) Use the bread knife to cut the pumpkin pie into serving-sized portions","A) apple pie
+B) shepherd's pie
+C) key lime pie
+D) cream pie
+E) pumpkin pie"
+296,"blender, coffee machine, clean sponge, dirty sponge, dish soap, green seedless grapes, black seedless grapes, red seedless grapes, glass milk bottle, oat milk bottle, muesli, cornflakes","a blender, a coffee machine, a clean sponge, a dirty sponge, a dish soap, green seedless grapes, black seedless grapes, red seedless grapes, a glass milk bottle, an oat milk bottle, muesli, cornflakes","Use the blender to blend together a cup of oat milk, a cup of mixed seedless grapes (green, black, red), and a tablespoon of honey to create a refreshing and nutritious grape smoothie.","Robot, please use the blender to mix together a cup of oat milk, a cup of assorted seedless grapes (green, black, red), and a tablespoon of honey to make a delicious and healthy grape smoothie.",preferences," glass milk bottle, oat milk bottle","Blend together milk, mixed seedless grapes, and honey in the blender.",What milk should I use?,A cup of oat milk.,"1. Gather the blender, oat milk, mixed seedless grapes, and honey.
+2. Pour a cup of oat milk into the blender.
+3. Add a cup of mixed seedless grapes (green, black, red) into the blender.
+4. Add a tablespoon of honey into the blender.
+5. Blend all ingredients together until smooth and well combined.
+6. Pour the grape smoothie into a glass and enjoy!","1. Gather the blender, milk, mixed seedless grapes, and honey.
+2. Pour milk into the blender.
+3. Add mixed seedless grapes into the blender.
+4. Add honey into the blender.
+5. Blend all ingredients together until smooth and well combined.
+6. Pour the mixture into a glass and enjoy!",0,pour a cup of oat milk,"A) pick up the blender
+B) pick up the glass milk bottle
+C) pick up the green seedless grapes, black seedless grapes, and red seedless grapes
+D) pick up the honey","A) use the glass milk bottle
+B) use the oat milk bottle"
+359,"plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, dish rack, clean sponge, dirty sponge, dish soap, mixed fruit jam, condensed milk, black tea bags, green tea bags, cream cheese, cheddar cheese slices, parmesan","a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a dish rack, a clean sponge, a dirty sponge, a dish soap, mixed fruit jam, condensed milk, black tea bags, green tea bags, cream cheese, cheddar cheese slices, parmesan","Please, use the clean sponge and the dish soap to wash the plastic dinner plate and the glass salad plate. Rinse them with hot water and place them on the dish rack to dry.","Robot, please utilize the fresh sponge and the dish detergent to clean the plastic dinner plate and the glass salad plate. After washing them, rinse with hot water and place them on the dish rack for drying.",preferences,"plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate","Please, use the clean sponge and the dish soap to wash the plates. Rinse them with hot water and place them on the dish rack to dry.",Which specific plates should be washed?,The plastic dinner plate and the glass salad plate.,"1. Use the clean sponge and dish soap to wash the plastic dinner plate
+2. Rinse the plastic dinner plate with hot water
+3. Place the plastic dinner plate on the dish rack to dry
+4. Use the clean sponge and dish soap to wash the glass salad plate
+5. Rinse the glass salad plate with hot water
+6. Place the glass salad plate on the dish rack to dry","1. Use the clean sponge and dish soap to wash the plastic dinner plate
+2. Rinse the plastic dinner plate with hot water
+3. Place the plastic dinner plate on the dish rack to dry
+4. Use the clean sponge and dish soap to wash the glass salad plate
+5. Rinse the glass salad plate with hot water
+6. Place the glass salad plate on the dish rack to dry",0,please place the plastic dinner plate and the glass salad plate on the dining table,A) Use the clean sponge and dish soap to wash the plastic dinner plate,"A) wash the plastic dinner plate with the clean sponge and dish soap
+B) wash the plastic bread plate with the clean sponge and dish soap
+C) wash the plastic salad plate with the clean sponge and dish soap"
+398,"porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass, frying pan, grill pan, sauce pan, clean sponge, dirty sponge, dish soap, canned green peas, canned olives, canned corn, canned beans, sea salt, granulated sugar, table salt, bacon, ham, ketchup, mustard, strawberry cake, ice cream cake, chocolate cake, vanilla cake, cheesecake","a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a galss, a frying pan, a grill pan, a sauce pan, a clean sponge, a dirty sponge, a dish soap, canned green peas, canned olives, canned corn, canned beans, sea salt, granulated sugar, table salt, bacon, ham, ketchup, mustard, a strawberry cake, an ice cream cake, a chocolate cake, a vanilla cake, a cheesecake",Use the frying pan to cook two slices of bacon until crispy.,"Robot, please use the pan to cook two bacon slices until they are crispy.",preferences,"frying pan, grill pan, sauce pan",Cook two slices of bacon in the pan.,Which specific pan should I use to cook the bacon?,Use the frying pan.,"1. Use the frying pan to cook two slices of bacon until crispy.
+2. Wash the frying pan with dish soap and the clean sponge.
+3. Put away the bacon, ham, ketchup, mustard, canned green peas, canned olives, canned corn, canned beans in the fridge.
+4. Enjoy a cup of tea using the tea kettle and one of the mugs or cups available.
+5. Have a slice of cake for dessert if desired.
+6. Clean up any dishes used in the process with dish soap and either sponge as needed.
+7. Take a break and relax at the kitchen table before continuing with any other tasks needed in the office kitchen.","1. Cook two slices of bacon in the pan.
+2. Wash the frying pan with dish soap and the clean sponge.
+3. Put away the bacon, ham, ketchup, mustard, canned green peas, canned olives, canned corn, canned beans in the fridge.
+4. Enjoy a cup of tea using the tea kettle and one of the mugs or cups available.
+5. Have a slice of cake for dessert if desired.
+6. Clean up any dishes used in the process with dish soap and either sponge as needed.
+7. Take a break and relax at the kitchen table before continuing with any other tasks needed in the office kitchen.",0,use the frying pan to cook the food,"A) pick up the frying pan
+B) pick up the bacon slices","A) use the frying pan to cook the bacon
+B) use the grill pan to cook the bacon"
+478,"knife block, stainless steel tablespoon, wooden tablespoon, silver teaspoon, muesli, cornflakes, crackers, digestive biscuits, cookies, bottle of white wine, bottle of red wine, corkscrew, bottle opener, strawberry frosted donut, maple bar, cinnamon sugar donut, coconut donut, strawberries, raspberries","a knife block, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, muesli, cornflakes, crackers, digestive biscuits, cookies, a bottle of white wine, a bottle of red wine, a corkscrew, a bottle opener, a strawberry frosted donut, a maple bar, a cinnamon sugar donut, a coconut donut, strawberries, raspberries",Start the dishwasher and ensure all kitchen tools like the corkscrew are placed inside.,"Robot, please activate the dishwasher and make sure all kitchen utensils, including the corkscrew, are placed inside.",common_sense_knowledge,,Start the dishwasher and ensure all kitchen tools like the corkscrew are placed inside.,Are food items like muesli and cornflakes considered kitchen tools?,"No, only items like knives, tablespoons, and corkscrews are considered kitchen tools.","1. Start the dishwasher and ensure all kitchen tools like the corkscrew are placed inside.
+2. Organize the fridge by checking for expired items and rearranging food items for better visibility.
+3. Prepare a cup of tea using the tea kettle and silver teaspoon.
+4. Enjoy a snack by choosing between muesli, cornflakes, crackers, digestive biscuits, cookies, strawberries or raspberries.
+5. If feeling indulgent, have a glass of white or red wine with a donut or maple bar as a treat.
+6. Clean up any spills or messes on the kitchen table or countertops to keep the kitchen tidy.","1. Start the dishwasher and make sure all kitchen tools like the corkscrew are placed inside.
+2. Organize the fridge by checking for expired items and rearranging food items for better visibility.
+3. Prepare a cup of tea using the tea kettle and silver teaspoon.
+4. Enjoy a snack by choosing between muesli, cornflakes, crackers, digestive biscuits, cookies, strawberries or raspberries.
+5. If feeling indulgent, have a glass of white or red wine with a donut or maple bar as a treat.
+6. Clean up any spills or messes on the kitchen table or countertops to keep the kitchen tidy.",0,the robot should only consider items like knives tablespoons and corkscrews as kitchen tools,"A) Start the dishwasher
+B) Place all kitchen tools like the corkscrew inside the dishwasher","A) place the corkscrew inside the dishwasher
+B) place all kitchen tools inside the dishwasher"
+109,"kitchen towel, soup pot, stockpot, whisk, mixed fruit jam, grapes, orange, avocado, lemon, banana, milk chocolate tablet, almond milk chocolate tablet, bottle of white wine, bottle of red wine, energy bar","a kitchen towel, a soup pot, a stockpot, a whisk, mixed fruit jam, grapes, an orange, an avocado, a lemon, a banana, a milk chocolate tablet, an almond milk chocolate tablet, a bottle of white wine, a bottle of red wine, an energy bar","Kitchen Robot, please use the whisk to mix together a cup of mixed fruit jam and a tablespoon of lemon juice until smooth. Then, slice the banana into thin pieces and dip them into the jam mixture. ","Robot, please combine the mixed fruit jam and lemon juice using the whisk until it becomes a smooth mixture. After that, slice the banana thinly and dip the slices into the jam mixture.",common_sense_knowledge,,"Kitchen Robot, please use the whisk to mix together a cup of mixed fruit jam and a tablespoon of lemon juice until smooth. Then, slice the banana into thin pieces and dip them into the jam mixture.",Should I heat up the mixed fruit jam before mixing it with lemon juice?,Do not heat up the mixed fruit jam before mixing it with lemon juice,"1. Use the whisk to mix together a cup of mixed fruit jam and a tablespoon of lemon juice until smooth.
+2. Slice the banana into thin pieces.
+3. Dip the banana slices into the jam mixture.","1. Use the whisk to mix together a cup of mixed fruit jam and a tablespoon of lemon juice until smooth.
+2. Slice the banana into thin pieces.
+3. Dip the banana slices into the jam mixture.",0,do not heat up the mixed fruit jam before mixing it with lemon juice,A) Use the whisk to mix together a cup of mixed fruit jam and a tablespoon of lemon juice until smooth.,"A) heat up the mixed fruit jam before mixing it with lemon juice
+B) mix the mixed fruit jam and lemon juice without heating it"
+39,"garlic press, chopsticks, stainless steel dinner fork, stainless steel salad fork, stainless steel dinner knife, porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass, glass milk bottle, oat milk bottle, eggs, mayonnaise, mustard, ketchup","a garlic press, chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a glass milk bottle, an oat milk bottle, eggs, mayonnaise, mustard, ketchup","Kitchen Robot, please take an egg from the fridge and place it in the glass milk bottle without breaking it.","Robot, please retrieve an egg from the refrigerator and carefully place it inside the glass milk container without causing any damage to the egg.",preferences,,"Kitchen Robot, please take an egg from the fridge and place it in the glass milk bottle without breaking it.",Which type of cup should I use to place the egg in?,Use the glass milk bottle.,"1. Open the fridge and retrieve an egg.
+2. Carefully place the egg inside the glass milk bottle without breaking it.
+3. Close the fridge door to maintain temperature.
+4. Await further instructions or tasks from users in the office kitchen.","1. Open the fridge and retrieve an egg.
+2. Carefully place the egg inside the glass milk bottle without breaking it.
+3. Close the fridge door to maintain temperature.
+4. Await further instructions or tasks from users in the office kitchen.",0,use the glass milk bottle for this task,A) pick up an egg from the fridge,"A) use the porcelain cup to place the egg in
+B) use the ceramic mug to place the egg in"
+93,"plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, metal bowl, plastic bowl, ceramic bowl, avocado, lemon, grapes, banana, dark chocolate tablet, almond milk chocolate tablet, milk chocolate tablet, onion, cucumber, black pepper, carrot, tomato, bell pepper, cabbage, garlic, potato, eggs","a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a metal bowl, a plastic bowl, a ceramic bowl, an avocado, a lemon, grapes, a banana, a dark chocolate tablet, an almond milk chocolate tablet, a milk chocolate tablet, an onion, a cucumber, a black pepper, a carrot, a tomato, a bell pepper, a cabbage, a garlic, a potato, eggs","Kitchen Robot, please use the plastic salad plate and the metal bowl to make a colorful and healthy salad. First, use the plastic salad plate to arrange a bed of thinly sliced cabbage. Then, use the metal bowl to mix together diced tomato, diced cucumber, diced bell pepper, and grated carrot. Squeeze the juice of half a lemon over the top and season with black pepper to taste. Finally, use the plastic salad plate to arrange the mixed vegetables on top of the cabbage and garnish with sliced avocado and grapes.","Robot, please create a vibrant and nutritious salad using the plastic salad plate and metal bowl. Begin by laying out thinly sliced cabbage on the plastic plate. Next, combine diced tomato, cucumber, bell pepper, and grated carrot in the metal bowl. Add lemon juice and black pepper for flavor. Finally, arrange the mixed vegetables on top of the cabbage on the plastic plate and garnish with avocado slices and grapes.",common_sense_knowledge,,"Kitchen Robot, please use the plastic salad plate and the metal bowl to make a colorful and healthy salad. First, use the plastic salad plate to arrange a bed of thinly sliced cabbage. Then, use the metal bowl to mix together tomato, cucumber, bell pepper, and carrot. Squeeze the juice of half a lemon over the top and season with black pepper to taste. Finally, use the plastic salad plate to arrange the mixed vegetables on top of the cabbage and garnish with sliced avocado and grapes.",Should I chop all ingredients before mixing them in the metal bowl?,"Yes, please dice all vegetables before mixing them in the metal bowl for better presentation.","1. Slice the cabbage thinly and arrange it on the plastic salad plate.
+2. Dice the tomato, cucumber, and bell pepper, and grate the carrot into the metal bowl.
+3. Mix together the diced vegetables in the metal bowl.
+4. Squeeze half a lemon over the mixed vegetables in the metal bowl.
+5. Season with black pepper to taste.
+6. Arrange the mixed vegetables on top of the cabbage on the plastic salad plate.
+7. Garnish with sliced avocado and grapes on top of the mixed vegetables.
+8. Serve and enjoy!","1. Slice the cabbage thinly and arrange it on the plastic salad plate.
+2. Mix together tomato, cucumber, bell pepper, and carrot in the metal bowl.
+3. Squeeze half a lemon over the mixed vegetables in the metal bowl.
+4. Season with black pepper to taste.
+5. Arrange the mixed vegetables on top of the cabbage on the plastic salad plate.
+6. Garnish with sliced avocado and grapes on top of the mixed vegetables.
+7. Serve and enjoy!",1,dice all vegetables before mixing them in the metal bowl for better presentation,"A) Mix together tomato, cucumber, bell pepper, and carrot in the metal bowl.","A) chop the tomato, cucumber, bell pepper, and carrot before mixing them in the metal bowl
+B) mix the whole tomato, cucumber, bell pepper, and carrot in the metal bowl without chopping them"
+29,"coffee machine, chair, orange soda, bottled iced tea, toasted bread, sliced whole wheat bread, uncut white bread, honey, vanilla yogurt cup, greek yogurt cup, strawberry yogurt cup, granulated sugar, sea salt, table salt","a coffee machine, a chair, an orange soda, bottled iced tea, toasted bread, sliced whole wheat bread, uncut white bread, honey, a vanilla yogurt cup, a greek yogurt cup, a strawberry yogurt cup, granulated sugar, sea salt, table salt","Kitchen Robot, please prepare a breakfast plate with two slices of toasted whole wheat bread, a spread of honey, and a side of Greek yogurt.","Robot, please make a breakfast plate with two pieces of toasted whole wheat bread, a drizzle of honey, and a serving of Greek yogurt.",preferences,"vanilla yogurt cup, greek yogurt cup, strawberry yogurt cup","Kitchen Robot, please prepare a breakfast plate with two slices of toasted whole wheat bread, a spread of honey, and a side of Greek yogurt.",Which type of yogurt should be used for the side dish on the breakfast plate?,Greek yogurt.,"1. Toast two slices of whole wheat bread in the oven.
+2. Spread honey on one side of each slice of toasted bread.
+3. Place a serving of Greek yogurt on a plate as a side dish.
+4. Arrange the honey spread toast on the plate next to the Greek yogurt.
+5. Serve the breakfast plate to the designated person or area for pickup.","1. Toast two slices of whole wheat bread in the oven.
+2. Spread honey on one side of each slice of toasted bread.
+3. Place a serving of Greek yogurt on a plate as a side dish.
+4. Arrange the honey spread toast on the plate next to the Greek yogurt.
+5. Serve the breakfast plate to the designated person or area for pickup.",0,use greek yogurt,"A) Place two slices of whole wheat bread in the oven
+B) Set the oven to toast mode
+C) Wait for the bread to finish toasting","A) use the vanilla yogurt cup for the side dish on the breakfast plate
+B) use the greek yogurt cup for the side dish on the breakfast plate"
+209,"mixer, grater, blender, fresh mozarella package, cheddar cheese slices, cream cheese, mozarella sticks, bottle of white wine, bottle of red wine, sunflower oil, olive oil, honey, tomato paste, mayonnaise, mustard","a mixer, a grater, a blender, a fresh mozarella package, cheddar cheese slices, cream cheese, mozarella sticks, a bottle of white wine, a bottle of red wine, sunflower oil, olive oil, honey, tomato paste, mayonnaise, mustard","Robot, please use the mixer to mix together a quick and easy cheese dip. Use a cup of shredded cheddar cheese, a tablespoon of cream cheese, and a tablespoon of mayonnaise. Mix the ingredients together until well combined.","Hey kitchen robot, can you please use the blender to combine a simple cheese dip? Take a cup of grated cheddar cheese, a spoonful of cream cheese, and a spoonful of mayo. Blend everything until it's mixed well. Thank you!",common_sense_knowledge,,"Robot, please use the mixer to mix together a quick and easy cheese dip. Use a cup of shredded cheddar cheese, a tablespoon of cream cheese, and a tablespoon of mayonnaise. Mix the ingredients together until well combined.",Which type of cheese should be used for the dip?,Use a cup of shredded cheddar cheese and a tablespoon of cream cheese,"1. Gather the mixer, shredded cheddar cheese, cream cheese, and mayonnaise.
+2. Measure out a cup of shredded cheddar cheese and add it to the mixer bowl.
+3. Add a tablespoon of cream cheese to the mixer bowl.
+4. Add a tablespoon of mayonnaise to the mixer bowl.
+5. Mix the ingredients together using the mixer until well combined.
+6. Serve the cheese dip in a serving dish with some crackers or vegetables on the side for dipping.","1. Gather the mixer, shredded cheddar cheese, cream cheese, and mayonnaise.
+2. Measure out a cup of shredded cheddar cheese and add it to the mixer bowl.
+3. Add a tablespoon of cream cheese to the mixer bowl.
+4. Add a tablespoon of mayonnaise to the mixer bowl.
+5. Mix the ingredients together using the mixer until well combined.
+6. Serve the cheese dip in a serving dish with some crackers or vegetables on the side for dipping.",0,use one cup of shredded cheddar cheese and one tablespoon of cream cheese,"A) pick up the mixer
+B) pick up shredded cheddar cheese
+C) pick up cream cheese
+D) pick up mayonnaise","A) use shredded cheddar cheese for the dip
+B) use fresh mozarella for the dip"
+481,"blender, mixer, metal bowl, plastic bowl, ceramic bowl, strawberries, blackberries, energy bar, spaghetti, jasmine rice, brown rice, basmati rice, buckwheat, couscous","a blender, a mixer, a metal bowl, a plastic bowl, a ceramic bowl, strawberries, blackberries, an energy bar, spaghetti, jasmine rice, brown rice, basmati rice, buckwheat, couscous",Store the leftover spaghetti in the plastic bowl and place it in the fridge for later.,"Robot, please put the remaining spaghetti in the plastic container and store it in the refrigerator for later use.",preferences,"metal bowl, plastic bowl, ceramic bowl",Store the leftover spaghetti in bowl and place it in the fridge for later.,Where should I store the leftover spaghetti?,In the plastic bowl and then place it in the fridge.,"1. Store the leftover spaghetti in the plastic bowl and place it in the fridge for later.
+2. Fill the tea kettle with water and turn it on to boil for a cup of tea.
+3. Wash any dirty dishes in the sink and load them into the dishwasher.
+4. Prepare a smoothie using the blender with strawberries, blackberries, and an energy bar.
+5. Enjoy my cup of tea while waiting for the dishwasher to finish its cycle.
+6. Clean up any spills or messes on the kitchen table or countertops.
+7. Organize and put away any ingredients that are out of place in their respective storage containers.
+8. Take a break and relax before getting back to work duties in the office kitchen.","1. Store the leftover spaghetti in the bowl and place it in the fridge for later.
+2. Fill the tea kettle with water and turn it on to boil for a cup of tea.
+3. Wash any dirty dishes in the sink and load them into the dishwasher.
+4. Prepare a smoothie using the blender with strawberries, blackberries, and an energy bar.
+5. Enjoy my cup of tea while waiting for the dishwasher to finish its cycle.
+6. Clean up any spills or messes on the kitchen table or countertops.
+7. Organize and put away any ingredients that are out of place in their respective storage containers.
+8. Take a break and relax before getting back to work duties in the office kitchen.",0,place the mixture in the plastic bowl and then store it in the fridge,A) Store the leftover spaghetti in the plastic bowl and place it in the fridge for later.,"A) store the leftover spaghetti in the plastic bowl and place it in the fridge for later
+B) store the leftover spaghetti in the ceramic bowl and place it in the fridge for later"
+98,"spatula, shears, bottled water, RedBull can, bottled iced tea, beer can, potato, cabbage, onion, carrot","a spatula, shears, bottled water, a RedBull can, bottled iced tea, a beer can, a potato, a cabbage, an onion, a carrot","Kitchen Robot, please use the spatula to flip a potato that is cooking on the stove.","Robot, please use the flipper to turn over the potato that is being cooked on the stove.",preferences," potato, cabbage, onion, carrot","Kitchen Robot, please use the spatula to flip a vegetable that is cooking on the stove.",Which vegetable should I flip on the stove?,The potato.,"1. Use the spatula to flip the potato cooking on the stove.
+2. Fill the tea kettle with water and turn it on to boil.
+3. Put away any dirty dishes in the dishwasher.
+4. Cut up the cabbage, onion, and carrot for a stir fry dish.
+5. Preheat the oven for baking something later.
+6. Organize and clean up any clutter on the kitchen table.
+7. Check if there are any leftovers in the fridge that need to be reheated in the microwave.
+8. Dispose of any empty cans or bottles in recycling bin.
+
+Is there anything else you would like me to do?","1. Use the spatula to flip the vegetable cooking on the stove.
+2. Fill the tea kettle with water and turn it on to boil.
+3. Put away any dirty dishes in the dishwasher.
+4. Cut up the cabbage, onion, and carrot for a stir fry dish.
+5. Preheat the oven for baking something later.
+6. Organize and clean up any clutter on the kitchen table.
+7. Check if there are any leftovers in the fridge that need to be reheated in the microwave.
+8. Dispose of any empty cans or bottles in recycling bin.
+
+Is there anything else you would like me to do?",0,the potato should be peeled and chopped into small pieces before being added to the soup,A) use the spatula to flip the vegetables on the stove,"A) flip the potato on the stove
+B) flip the cabbage on the stove
+C) flip the onion on the stove"
+102,"toaster, metal bowl, plastic bowl, ceramic bowl, coffee machine, potato chips, rice chips, jalapeno chips, muesli, cornflakes, canned olives, cottage cheese, mozarella sticks, cream cheese, Pepsi can, bottled water, orange soda, Coka-Cola can, sesame seed bagel,  whole grain bagel","a toaster, a metal bowl, a plastic bowl, a ceramic bowl, a coffee machine, potato chips, rice chips, jalapeno chips, muesli, cornflakes, canned olives, cottage cheese, mozarella sticks, cream cheese, a Pepsi can, bottled water, an orange soda, a Coka-Cola can,  a sesame seed bagel,  a whole grain bagel","Kitchen Robot, please use the toaster to toast a bagel.","Robot, please toast a bagel using the toaster in the kitchen.",preferences,"sesame seed bagel,  whole grain bagel","Kitchen Robot, please use the toaster to toast a bagel.",Which type of bagel should the robot toast?,The sesame seed bagel.,"1. Retrieve the sesame seed bagel from the kitchen table.
+2. Place the sesame seed bagel in the toaster.
+3. Set the toaster to desired level of toasting.
+4. Start the toaster and wait for it to finish toasting.
+5. Remove the toasted sesame seed bagel from the toaster and place it on a plate.
+6. Serve the toasted sesame seed bagel on a plate for consumption.
+
+Is there anything else you would like me to do?","1. Retrieve the whole grain bagel from the kitchen table.
+2. Place the whole grain bagel in the toaster.
+3. Set the toaster to desired level of toasting.
+4. Start the toaster and wait for it to finish toasting.
+5. Remove the toasted whole grain bagel from the toaster and place it on a plate.
+6. Serve the toasted whole grain bagel on a plate for consumption.
+
+Is there anything else you would like me to do?",0,make a sesame seed bagel,A) pick up the whole grain bagel from the kitchen table,"A) toast the sesame seed bagel
+B) toast the whole grain bagel"
+300,"bread knife, paring knife, butter knife, cutting board, stainless steel tablespoon, wooden tablespoon, silver teaspoon, citrus juicer, orange, banana, lemon, apricot, kiwi, bacon, ham, toasted bread, uncut white bread, sliced whole wheat bread, croissant","a bread knife, a paring knife, a butter knife, a cutting board, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a citrus juicer, an orange, a banana, a lemon, an apricot, a kiwi, bacon, ham, toasted bread, uncut white bread, sliced whole wheat bread, a croissant","Use the bread knife to carefully slice a croissant in half horizontally. Spread a layer of butter on the bottom half of the croissant, and top it with two slices of ham and a slice of tomato. Place the top half of the croissant on top, and press down gently to secure the sandwich. Serve the ham and tomato croissant sandwich with a side of bacon for a delicious and satisfying breakfast.","Robot, please use the serrated knife to carefully cut the croissant in half horizontally. Spread some butter on the bottom half of the croissant, then add two slices of ham and a slice of tomato. Place the top half of the croissant on top and gently press it down to make a sandwich. Serve the ham and tomato croissant sandwich with a side of bacon for a tasty breakfast.",common_sense_knowledge,,"Use a knife to carefully slice a croissant in half horizontally. Spread a layer of butter on the bottom half of the croissant, and top it with two slices of ham and a slice of tomato. Place the top half of the croissant on top, and press down gently to secure the sandwich. Serve the ham and tomato croissant sandwich with a side of bacon for a delicious and satisfying breakfast.",Which knife should I use to slice the croissant?,Use the bread knife.,"1. Use the bread knife to slice the croissant in half horizontally
+2. Spread butter on the bottom half of the croissant
+3. Add two slices of ham on top of the butter
+4. Place a slice of tomato on top of the ham
+5. Put the top half of the croissant on top and press down gently to secure
+6. Cook bacon in oven or microwave until crispy
+7. Serve ham and tomato croissant sandwich with a side of bacon","1. Use a knife to slice the croissant in half horizontally
+2. Spread butter on the bottom half of the croissant
+3. Add two slices of ham on top of the butter
+4. Place a slice of tomato on top of the ham
+5. Put the top half of the croissant on top and press down gently to secure
+6. Cook bacon in oven or microwave until crispy
+7. Serve ham and tomato croissant sandwich with a side of bacon",0,use the bread knife to slice the bread,"A) pick up the bread knife
+B) pick up the paring knife
+C) pick up the butter knife","A) use the bread knife to slice the croissant in half horizontally
+B) use the paring knife to slice the croissant in half horizontally"
+71,"shears, garlic press, bread knife, paring knife, butter knife, cutting board, canned olives, energy bar, granulated sugar, sea salt, muesli, cornflakes, tomato, garlic, cucumber, carrot, onion, bell pepper","shears, a garlic press, a bread knife, a paring knife, a butter knife, a cutting board, canned olives, an energy bar, granulated sugar, sea salt, muesli, cornflakes, a tomato, a garlic, a cucumber, a carrot, an onion, a bell pepper","Kitchen Robot, please use the cutting board and the paring knife to chop the tomato, cucumber, onion, and bell pepper into small pieces.","Dear Kitchen Robot, please chop the tomato, cucumber, onion, and bell pepper into small pieces using the cutting board and paring knife.",preferences,,"Kitchen Robot, please use the cutting board and the paring knife to chop all vegetables into small pieces.",Which vegetables should be chopped into small pieces?,"The tomato, cucumber, onion, and bell pepper.","1. Wash the tomato, cucumber, onion, and bell pepper.
+2. Use the paring knife to chop the tomato into small pieces on the cutting board.
+3. Repeat step 2 for the cucumber, onion, and bell pepper.
+4. Once all vegetables are chopped, transfer them into a bowl for use in a salad or dish.","1. Wash all vegetables (tomato, cucumber, onion, and bell pepper).
+2. Use the paring knife to chop each vegetable into small pieces on the cutting board.
+3. Repeat step 2 for all vegetables.
+4. Once all vegetables are chopped, transfer them into a bowl for use in a salad or dish.",0,chop the tomato cucumber onion and bell pepper,"A) wash the tomato
+B) wash the cucumber
+C) wash the onion
+D) wash the bell pepper","A) chop the tomato into small pieces
+B) chop the cucumber into small pieces
+C) chop the onion into small pieces
+D) chop the bell pepper into small pieces"
+2,"garlic press, corkscrew, sunflower oil, olive oil, coconut oil, bell pepper, carrot, tomato, uncut white bread, sliced whole wheat bread, stove, microwave","a garlic press, a corkscrew, sunflower oil, olive oil, coconut oil, a bell pepper, a carrot, a tomato, uncut white bread, sliced whole wheat bread, a stove, a microwave","Kitchen Robot, please chop the bell pepper, carrot, and tomato using the garlic press as a chopping tool, and then sauté the vegetables in a pan with a tablespoon of olive oil over medium heat for 5 minutes. Serve the vegetables on a slice of whole wheat bread.","Hey kitchen assistant, please dice the bell pepper, carrot, and tomato using the garlic press as a cutter, and then cook the veggies in a pan with a tablespoon of olive oil over medium heat for 5 minutes. Serve the sautéed vegetables on a piece of whole grain bread.",preferences,"stove, microwave","Kitchen Robot, please chop the bell pepper, carrot, and tomato using the garlic press as a chopping tool, and then sauté the vegetables in a pan with a tablespoon of olive oil over medium heat for 5 minutes. Serve the vegetables on a slice of whole wheat bread.",Should I use the stove or microwave to sauté the vegetables?,The stove,"1. Chop the bell pepper, carrot, and tomato using the garlic press as a chopping tool.
+2. Heat a pan over medium heat and add a tablespoon of olive oil.
+3. Sauté the chopped vegetables in the pan for 5 minutes.
+4. Serve the sautéed vegetables on a slice of whole wheat bread.","1. Chop the bell pepper, carrot, and tomato using the garlic press as a chopping tool.
+2. Heat a pan over medium heat and add a tablespoon of olive oil.
+3. Sauté the chopped vegetables in the pan for 5 minutes.
+4. Serve the sautéed vegetables on a slice of whole wheat bread.",0,should be preheated to 350 degrees fahrenheit before placing the dish inside to bake,"A) Use the garlic press to chop the bell pepper, carrot, and tomato.","A) use the stove to sauté the vegetables
+B) use the microwave to sauté the vegetables"
+495,"paper towels, metal bowl, plastic bowl, ceramic bowl, clean sponge, dirty sponge, dish soap, couscous, buckwheat, basmati rice, brown rice, potato chips, rice chips, jalapeno chips, ginger biscuits, crackers, chocolate teacakes, cookies, digestive biscuits","paper towels, a metal bowl, a plastic bowl, a ceramic bowl, a clean sponge, a dirty sponge, a dish soap, couscous, buckwheat, basmati rice, brown rice, potato chips, rice chips, jalapeno chips, ginger biscuits, crackers, chocolate teacakes, cookies, digestive biscuits",Place the ginger biscuits on the kitchen table.,"Robot, please put the ginger biscuits on the table in the kitchen.",common_sense_knowledge,,Place the ginger biscuits on the table.,Which table should I place the ginger biscuits on?,The kitchen table.,"1. Place the ginger biscuits on the kitchen table.
+2. Clean the dirty sponge with dish soap and water.
+3. Load the dishwasher with any dirty dishes.
+4. Fill the tea kettle with water and turn it on to boil for tea or coffee.
+5. Prepare a snack using either couscous, buckwheat, basmati rice, brown rice, potato chips, rice chips, jalapeno chips or crackers.
+6. Enjoy your snack while waiting for the tea kettle to boil.
+7. Once boiled, make yourself a cup of tea or coffee using the hot water from the kettle.
+8. Enjoy your hot beverage while cleaning up any remaining mess in the kitchen.
+
+Feel free to adjust this plan based on your preferences and needs!","1. Place the ginger biscuits.
+2. Clean the dirty sponge with dish soap and water.
+3. Load the dishwasher with any dirty dishes.
+4. Fill the tea kettle with water and turn it on to boil for tea or coffee.
+5. Prepare a snack using either couscous, buckwheat, basmati rice, brown rice, potato chips, rice chips, jalapeno chips or crackers.
+6. Enjoy your snack while waiting for the tea kettle to boil.
+7. Once boiled, make yourself a cup of tea or coffee using the hot water from the kettle.
+8. Enjoy your hot beverage while cleaning up any remaining mess in the kitchen.
+
+Feel free to adjust this plan based on your preferences and needs!",0,place the ingredients on the kitchen table,"A) place the ginger biscuits in the metal bowl
+B) place the ginger biscuits in the plastic bowl
+C) place the ginger biscuits in the ceramic bowl","A) place the ginger biscuits on the kitchen table
+B) place the ginger biscuits on the microwave"
+99,"stainless steel tablespoon, wooden tablespoon, silver teaspoon, kitchen towel, rice chips, potato chips, jalapeno chips, canned olives","a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a kitchen towel, rice chips, potato chips, jalapeno chips, canned olives","Kitchen Robot, please use the stainless steel tablespoon to scoop out some canned olives and place them in a small bowl.","Robot, please use the metal spoon to scoop out some canned olives and put them in a small dish.",common_sense_knowledge,,"Kitchen Robot, please use a spoon to scoop out some canned olives and place them in a small bowl.",Which type of tablespoon should the robot use to scoop out the canned olives?,The stainless steel tablespoon.,"1. Use the stainless steel tablespoon to scoop out canned olives and place them in a small bowl.
+2. Place the small bowl of canned olives on the kitchen table for easy access.
+3. Wipe down any spills or messes with the kitchen towel.
+4. Put away any leftover chips or snacks back in their respective containers.
+5. Wash and dry the stainless steel tablespoon before putting it back in its designated spot.
+6. Check if there are any dirty dishes in the sink and load them into the dishwasher if needed.
+7. Lastly, make sure everything is clean and organized before shutting down for the day.","1. Use a spoon to scoop out canned olives and place them in a small bowl.
+2. Place the small bowl of canned olives on the kitchen table for easy access.
+3. Wipe down any spills or messes with the kitchen towel.
+4. Put away any leftover chips or snacks back in their respective containers.
+5. Wash and dry the spoon before putting it back in its designated spot.
+6. Check if there are any dirty dishes in the sink and load them into the dishwasher if needed.
+7. Lastly, make sure everything is clean and organized before shutting down for the day.",0,use the stainless steel tablespoon,"A) Use the stainless steel tablespoon to scoop out canned olives and place them in a small bowl
+B) Use the wooden tablespoon to scoop out canned olives and place them in a small bowl
+C) Use the silver teaspoon to scoop out canned olives and place them in a small bowl","A) use the stainless steel tablespoon to scoop out canned olives and place them in a small bowl
+B) use the wooden tablespoon to scoop out canned olives and place them in a small bowl"
+65,"bread knife, paring knife, butter knife, cutting board, garlic press, banana, orange, mayonnaise, mustard, muesli, cornflakes, greek yogurt cup, strawberry yogurt cup, coconut oil, olive oil, sunflower oil","a bread knife, a paring knife, a butter knife, a cutting board, a garlic press, a banana, an orange, mayonnaise, mustard, muesli, cornflakes, a greek yogurt cup, a strawberry yogurt cup, coconut oil, olive oil, sunflower oil","Kitchen Robot, please use the bread knife and the cutting board to slice the banana into thin pieces and serve it in a bowl on the kitchen table.","Robot, please use the bread knife and cutting board to slice the banana into thin pieces and place them in a bowl on the kitchen table.",preferences,,"Kitchen Robot, please use the bread knife and the cutting board to slice the fruit into thin pieces and serve it in a bowl on the kitchen table.",Which fruit should be sliced into thin pieces and served in a bowl on the kitchen table?,The banana.,"1. Retrieve the bread knife and cutting board from their designated storage area.
+2. Take the banana from the fruit bowl on the kitchen table.
+3. Place the cutting board on a flat surface near the kitchen table.
+4. Use the bread knife to carefully slice the banana into thin pieces.
+5. Transfer the sliced banana into a bowl.
+6. Place the bowl of sliced banana on the kitchen table for serving.
+
+Is there anything else you would like me to do?","1. Retrieve the bread knife and cutting board from their designated storage area.
+2. Take the fruit from the fruit bowl on the kitchen table.
+3. Place the cutting board on a flat surface near the kitchen table.
+4. Use the bread knife to carefully slice the fruit into thin pieces.
+5. Transfer the sliced fruit into a bowl.
+6. Place the bowl of sliced fruit on the kitchen table for serving.
+
+Is there anything else you would like me to do?",1,use the banana,"A) pick up the banana
+B) pick up the orange","A) take the banana from the fruit bowl and slice it into thin pieces
+B) take the orange from the fruit bowl and slice it into thin pieces"
+115,"plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, paper towels, energy bar, olive oil, coconut oil, toasted bread, sliced whole wheat bread, muesli, cornflakes","a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, paper towels, an energy bar, olive oil, coconut oil, toasted bread, sliced whole wheat bread, muesli, cornflakes","Robot, please arrange the sliced whole wheat bread on a ceramic bread plate.","Hey kitchen robot, can you please place the sliced whole wheat bread on the ceramic bread plate?",preferences,"plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate","Robot, please arrange the sliced whole wheat bread on a plate.",Which type of plate should the sliced whole wheat bread be arranged on?,On a ceramic bread plate.,"1. Arrange the sliced whole wheat bread on a ceramic bread plate.
+2. Put the plastic dinner plate, plastic salad plate, ceramic dinner plate, ceramic salad plate, glass dinner plate, glass bread plate and glass salad plates in the dishwasher.
+3. Wipe down the kitchen table with paper towels.
+4. Fill the tea kettle with water and turn it on to boil.
+5. Make a cup of tea for someone in the office.
+6. Put away any leftover food items like muesli or cornflakes back in their respective containers.
+7. Clean any dirty dishes left in the sink and load them into the dishwasher.
+8. Organize any loose items like olive oil or energy bars back into their designated spots in the kitchen.
+
+Is there anything else you would like me to do?","1. Arrange the sliced whole wheat bread on a plate.
+2. Put the plastic dinner plate, plastic salad plate, ceramic dinner plate, ceramic salad plate, glass dinner plate, glass bread plate and glass salad plates in the dishwasher.
+3. Wipe down the kitchen table with paper towels.
+4. Fill the tea kettle with water and turn it on to boil.
+5. Make a cup of tea for someone in the office.
+6. Put away any leftover food items like muesli or cornflakes back in their respective containers.
+7. Clean any dirty dishes left in the sink and load them into the dishwasher.
+8. Organize any loose items like olive oil or energy bars back into their designated spots in the kitchen.
+
+Is there anything else you would like me to do?",0,place the bread on a ceramic plate,A) arrange the sliced whole wheat bread on a ceramic bread plate,"A) arrange the sliced whole wheat bread on a ceramic dinner plate
+B) arrange the sliced whole wheat bread on a glass dinner plate"
+464,"clean sponge, dirty sponge, dish soap, paper towels, spatula, canned olives, honey, bottle of white wine, bottle of red wine, spatula","a clean sponge, a dirty sponge, a dish soap, paper towels, a spatula, canned olives, honey, a bottle of white wine, a bottle of red wine, spatula","Prepare Olive Tapenade
+Task Instructions:
+Create Olive Tapenade:
+Drain the canned olives and rinse them under cold water.
+Place the olives in a mixing bowl.
+Add a generous amount of honey to the olives.
+Use the spatula to mix the olives and honey thoroughly.
+Transfer the mixture to a serving dish.
+Optionally, garnish with a drizzle of olive oil.
+Serve the olive tapenade with crackers or toasted bread.","Robot, please make Olive Tapenade.
+Task Instructions:
+Empty the canned olives and wash them with cold water.
+Put the olives in a mixing bowl.
+Add a good amount of honey to the olives.
+Use the spatula to mix the olives and honey well.
+Move the mixture to a serving dish.
+If you want, decorate with a drizzle of olive oil.
+Serve the olive tapenade with crackers or toasted bread.",preferences,,Prepare Olive Tapenade,Which utensil should be used to mix the olives and honey thoroughly?,Use the spatula.,"1. Drain the canned olives and rinse them under cold water.
+2. Place the olives in a mixing bowl.
+3. Add a generous amount of honey to the olives.
+4. Use the spatula to mix the olives and honey thoroughly.
+5. Transfer the mixture to a serving dish.
+6. Optionally, garnish with a drizzle of olive oil.
+7. Serve the olive tapenade with crackers or toasted bread.
+
+We: Great plan! Let's get started on making Olive Tapenade!","1. Drain the canned olives and rinse them under cold water.
+2. Place the olives in a mixing bowl.
+3. Add a generous amount of honey to the olives.
+4. Use the spatula to mix the olives and honey thoroughly.
+5. Transfer the mixture to a serving dish.
+6. Optionally, garnish with a drizzle of olive oil.
+7. Serve the olive tapenade with crackers or toasted bread.",0,use the spatula to mix the ingredients in the bowl,"A) Drain the canned olives
+B) Rinse the canned olives under cold water","A) use a spoon to mix the olives and honey thoroughly
+B) use a fork to mix the olives and honey thoroughly"
+107,"dish rack, whisk, plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, eggs, mozarella sticks, cottage cheese, cheddar cheese slices, cream cheese, table salt, granulated sugar, glass milk bottle, oat milk bottle","a dish rack, a whisk, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, eggs, mozarella sticks, cottage cheese, cheddar cheese slices, cream cheese, table salt, granulated sugar, a glass milk bottle, an oat milk bottle","Kitchen Robot, please use the whisk to beat 2 eggs in a small mixing bowl. Add a pinch of table salt and 1 tablespoon of granulated sugar to the bowl and whisk until the mixture is well combined. Heat a non-stick frying pan over medium heat and spray it with cooking spray. Pour the egg mixture into the pan and cook for 2-3 minutes, or until the bottom is set. Use a spatula to flip the egg mixture and cook for an additional 1-2 minutes, or until the desired level of doneness is reached. Serve the eggs on a ceramic dinner plate.","Robot, please take the whisk and beat 2 eggs in a small mixing bowl. Add a pinch of salt and 1 tablespoon of sugar to the bowl and mix until everything is well combined. Heat up a non-stick frying pan on medium heat and spray it with cooking spray. Pour the egg mixture into the pan and cook for 2-3 minutes, or until the bottom is set. Use a spatula to flip the eggs and cook for another 1-2 minutes, or until they are cooked to your liking. Serve the eggs on a ceramic dinner plate when they are ready.",preferences," glass milk bottle, oat milk bottle","Kitchen Robot, please use the whisk to beat 2 eggs in a small mixing bowl. Add a pinch of table salt and 1 tablespoon of granulated sugar to the bowl and whisk until the mixture is well combined. Heat a non-stick frying pan over medium heat and spray it with cooking spray. Pour the egg mixture and 1 cup of milk into the pan and cook for 2-3 minutes, or until the bottom is set. Use a spatula to flip the egg mixture and cook for an additional 1-2 minutes, or until the desired level of doneness is reached. Serve the eggs on a ceramic dinner plate.",Which type of milk should be used in this recipe?,The milk from glass milk bottle,"1. Use the whisk to beat 2 eggs in a small mixing bowl.
+2. Add a pinch of table salt and 1 tablespoon of granulated sugar to the bowl and whisk until well combined.
+3. Heat a non-stick frying pan over medium heat and spray it with cooking spray.
+4. Pour the egg mixture into the pan and cook for 2-3 minutes, or until the bottom is set.
+5. Use a spatula to flip the egg mixture and cook for an additional 1-2 minutes, or until desired level of doneness is reached.
+6. Serve the eggs on a ceramic dinner plate.","1. Use the whisk to beat 2 eggs in a small mixing bowl.
+2. Add a pinch of table salt and 1 tablespoon of granulated sugar to the bowl and whisk until well combined.
+3. Heat a non-stick frying pan over medium heat and spray it with cooking spray.
+4. Pour the egg mixture and 1 cup of milk into the pan and cook for 2-3 minutes, or until the bottom is set.
+5. Use a spatula to flip the egg mixture and cook for an additional 1-2 minutes, or until desired level of doneness is reached.
+6. Serve the eggs on a ceramic dinner plate.",3,pour the milk from the glass milk bottle into a measuring cup,"A) Pour the egg mixture and 1 cup of milk into the pan and cook for 2-3 minutes, or until the bottom is set.","A) use the glass milk bottle to pour 1 cup of milk into the pan
+B) use the oat milk bottle to pour 1 cup of milk into the pan"
+263,"soup pot, stockpot, ladle, toaster, energy bar, table salt, sea salt, granulated sugar","a soup pot, a stockpot, a ladle, a toaster, an energy bar, table salt, sea salt, granulated sugar",Measure and add one teaspoon of table salt to the soup pot on the stove.,"Robot, please measure and add one teaspoon of table salt to the soup pot on the stove.",preferences,"table salt, sea salt",Measure and add one teaspoon of salt to the pot on the stove.,Which type of salt should I use for the soup pot?,Use table salt.,"1. Measure and add one teaspoon of table salt to the soup pot on the stove.
+2. Fill the tea kettle with water and turn it on to boil.
+3. While waiting for the water to boil, clean any dirty dishes in the sink and load them into the dishwasher.
+4. Once the water is boiled, make a cup of tea for anyone who wants one.
+5. Check if there are any leftovers in the fridge that need to be heated up in the microwave.
+6. If there are leftovers, heat them up in the microwave and serve them on plates at the kitchen table.
+7. Enjoy a quick snack by grabbing an energy bar from the pantry.
+8. Finally, wipe down all surfaces in the kitchen and make sure everything is clean and organized before leaving for other tasks or duties.
+
+Note: Adjust tasks as needed based on specific instructions or requests from others using or working in the kitchen area.","1. Measure and add one teaspoon of salt to the pot on the stove.
+2. Fill the tea kettle with water and turn it on to boil.
+3. While waiting for the water to boil, clean any dirty dishes in the sink and load them into the dishwasher.
+4. Once the water is boiled, make a cup of tea for anyone who wants one.
+5. Check if there are any leftovers in the fridge that need to be heated up in the microwave.
+6. If there are leftovers, heat them up in the microwave and serve them on plates at the kitchen table.
+7. Enjoy a quick snack by grabbing an energy bar from the pantry.
+8. Finally, wipe down all surfaces in the kitchen and make sure everything is clean and organized before leaving for other tasks or duties.
+
+Note: Adjust tasks as needed based on specific instructions or requests from others using or working in the kitchen area.",0,use table salt for seasoning,"A) Measure and add one teaspoon of table salt to the pot on the stove
+B) Measure and add one teaspoon of sea salt to the pot on the stove","A) use table salt for the soup pot
+B) use sea salt for the soup pot"
+214,"ladle, bread knife, paring knife, butter knife, cutting board, plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, mixed fruit jam, glass milk bottle, oat milk bottle, mozarella sticks, cheddar cheese slices, cottage cheese, cream cheese, olive oil, sunflower oil, coconut oil, cheddar cheese from cupboard, cheddar cheese from table","a ladle, a bread knife, a paring knife, a butter knife, a cutting board, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, mixed fruit jam, a glass milk bottle, an oat milk bottle, mozarella sticks, cheddar cheese slices, cottage cheese, cream cheese, olive oil, sunflower oil, coconut oil, cheddar cheese from cupboard, cheddar cheese from table","Robot, please use the paring knife to cut a slice of cheddar cheese and place it on a ceramic bread plate.","Kitchen robot, please slice a piece of cheddar cheese using the small knife and place it on the square plate made of clay.",preferences,"cheddar cheese from cupboard, cheddar cheese from table","Robot, please use the paring knife to cut a slice of cheddar cheese and place it on a ceramic bread plate.",Which type of cheddar cheese should the robot cut?,The robot should cut a slice of cheddar cheese from the cupboard.,"1. Use the paring knife to cut a slice of cheddar cheese.
+2. Place the slice of cheddar cheese on a ceramic bread plate.","1. Use the paring knife to cut a slice of cheddar cheese.
+2. Place the slice of cheddar cheese on a ceramic bread plate.",0,please cut a slice of cheddar cheese from the cupboard,A) Use the paring knife to cut a slice of cheddar cheese.,"A) cut a slice of cheddar cheese from the cheddar cheese slices in the fridge
+B) cut a slice of cheddar cheese from the cheddar cheese on the table"
+125,"plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate, bread knife, paring knife, butter knife, cutting board, energy bar, ketchup, mayonnaise, mustard, lettuce, tomato, sliced bacon","a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a bread knife, a paring knife, a butter knife, a cutting board, an energy bar, ketchup, mayonnaise, mustard, lettuce, a tomato, sliced bacon","Robot, please make a BLT sandwich by toasting two slices of bread, spreading mayonnaise on one slice, adding lettuce, tomato, and cooked bacon, and topping with the second slice of bread.","Dear kitchen robot, please prepare a BLT sandwich by toasting two pieces of bread, spreading mayo on one slice, adding lettuce, tomato, and cooked bacon, and then placing the second slice of bread on top. Thank you!",preferences,"plastic dinner plate, plastic bread plate, plastic salad plate, ceramic dinner plate, ceramic bread plate, ceramic salad plate, glass dinner plate, glass bread plate, glass salad plate","Robot, please make a BLT sandwich by toasting two slices of bread, spreading mayonnaise on one slice, adding lettuce, tomato, and cooked bacon, and topping with the second slice of bread.",Which type of plate should the robot use to serve the BLT sandwich?,Use the ceramic bread plate,"1. Preheat the oven to toast the bread.
+2. Take out two slices of bread and place them in the oven to toast.
+3. While the bread is toasting, take out a ceramic bread plate and spread mayonnaise on one slice.
+4. Wash and chop lettuce and tomato, then place them on top of the mayonnaise-covered slice of bread.
+5. Cook bacon in the microwave or on a skillet until crispy, then add it on top of the lettuce and tomato.
+6. Once the bread is toasted, take it out of the oven and place it on top of the bacon to complete the sandwich.
+7. Serve on a ceramic dinner plate with any remaining ingredients as sides if desired.
+
+We: Great job! Enjoy your BLT sandwich!","1. Preheat the oven to toast the bread.
+2. Take out two slices of bread and place them in the oven to toast.
+3. While the bread is toasting, take out a ceramic bread plate and spread mayonnaise on one slice.
+4. Wash and chop lettuce and tomato, then place them on top of the mayonnaise-covered slice of bread.
+5. Cook bacon in the microwave or on a skillet until crispy, then add it on top of the lettuce and tomato.
+6. Once the bread is toasted, take it out of the oven and place it on top of the bacon to complete the sandwich.
+7. Serve on a ceramic dinner plate with any remaining ingredients as sides if desired.
+
+We: Great job! Enjoy your BLT sandwich!",0,use the ceramic bread plate to serve the bread,A) Preheat the oven to toast the bread,"A) use a ceramic dinner plate to serve the BLT sandwich
+B) use a glass dinner plate to serve the BLT sandwich"
